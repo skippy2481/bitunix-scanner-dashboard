@@ -1,0 +1,4 @@
+__pycache__
+.git
+_staging
+*.log

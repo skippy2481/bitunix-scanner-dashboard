@@ -1,0 +1,979 @@
+{
+ "generated": 1792462631,
+ "sources": {
+  "US": {
+   "file": "sweep-results.json",
+   "vantage": {
+    "ip": "159.26.115.57",
+    "country": "SG",
+    "city": "Singapore"
+   }
+  },
+  "SG": {
+   "file": "sweep-results-SG.json",
+   "vantage": {
+    "ip": "159.26.115.57",
+    "country": "SG",
+    "city": "Singapore"
+   }
+  }
+ },
+ "entries": {
+  "LUNA2USDT": {
+   "us_status": "ok",
+   "name": "Terra",
+   "status": "named",
+   "us_blocked": false
+  },
+  "BEAMXUSDT": {
+   "us_status": "ok",
+   "name": "BEAM",
+   "status": "named",
+   "us_blocked": false
+  },
+  "XAGUSDT": {
+   "us_status": "ok",
+   "name": "Silver",
+   "status": "named",
+   "us_blocked": false
+  },
+  "EWJUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "iShares MSCI Japan ETF",
+   "status": "named",
+   "us_blocked": true
+  },
+  "CLUSDT": {
+   "us_status": "ok",
+   "name": "WTI Crude Oil",
+   "status": "named",
+   "us_blocked": false
+  },
+  "PAYPUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "geoblocked",
+   "status": "dead_or_unlisted",
+   "us_blocked": null,
+   "note": "lands on BTCUSDT from US and SG egress; treat as unavailable, not geoblocked"
+  },
+  "BZUSDT": {
+   "us_status": "ok",
+   "name": "Brent Crude Oil",
+   "status": "named",
+   "us_blocked": false
+  },
+  "NATGASUSDT": {
+   "us_status": "ok",
+   "name": "Natural Gas",
+   "status": "named",
+   "us_blocked": false
+  },
+  "GAMESTOPUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "geoblocked",
+   "status": "dead_or_unlisted",
+   "us_blocked": null,
+   "note": "lands on BTCUSDT from US and SG egress; treat as unavailable, not geoblocked"
+  },
+  "SHLDUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "Global X Defense Tech ETF",
+   "status": "named",
+   "us_blocked": true
+  },
+  "PHAROSUSDT": {
+   "us_status": "ok",
+   "name": "Pharos",
+   "status": "named",
+   "us_blocked": false
+  },
+  "EDGEXUSDT": {
+   "us_status": "ok",
+   "name": "edgeX",
+   "status": "named",
+   "us_blocked": false
+  },
+  "BRKBUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "Berkshire Hathaway",
+   "status": "named",
+   "us_blocked": true
+  },
+  "QNTXUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "geoblocked",
+   "status": "dead_or_unlisted",
+   "us_blocked": null,
+   "note": "lands on BTCUSDT from US and SG egress; treat as unavailable, not geoblocked"
+  },
+  "BBXUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "BlackBerry",
+   "status": "named",
+   "us_blocked": true
+  },
+  "NOKUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "Nokia",
+   "status": "named",
+   "us_blocked": true
+  },
+  "HYUNDAIUSDT": {
+   "us_status": "ok",
+   "name": "Hyundai Motor",
+   "status": "named",
+   "us_blocked": false
+  },
+  "SAMSUNGUSDT": {
+   "us_status": "ok",
+   "name": "Samsung Electronics",
+   "status": "named",
+   "us_blocked": false
+  },
+  "SKHYNIXUSDT": {
+   "us_status": "ok",
+   "name": "SK Hynix",
+   "status": "named",
+   "us_blocked": false
+  },
+  "ONDSUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "Ondas",
+   "status": "named",
+   "us_blocked": true
+  },
+  "BXUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "Blackstone",
+   "status": "named",
+   "us_blocked": true
+  },
+  "EBAYUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "eBay",
+   "status": "named",
+   "us_blocked": true
+  },
+  "URNMUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "Sprott Uranium Miners ETF",
+   "status": "named",
+   "us_blocked": true
+  },
+  "EWZUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "iShares MSCI Brazil ETF",
+   "status": "named",
+   "us_blocked": true
+  },
+  "XLEUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "Energy Select Sector SPDR ETF",
+   "status": "named",
+   "us_blocked": true
+  },
+  "BNLIFEUSDT": {
+   "us_status": "ok",
+   "name": "BINANCELIFE",
+   "status": "named",
+   "us_blocked": false
+  },
+  "UVXYUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "geoblocked",
+   "status": "dead_or_unlisted",
+   "us_blocked": null,
+   "note": "lands on BTCUSDT from US and SG egress; treat as unavailable, not geoblocked"
+  },
+  "STXXUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "Seagate",
+   "status": "named",
+   "us_blocked": true
+  },
+  "TXNUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "Texas Instruments",
+   "status": "named",
+   "us_blocked": true
+  },
+  "DATAIPUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "Data Network",
+   "status": "named",
+   "us_blocked": true
+  },
+  "MUUUSDT": {
+   "name": "Direxion MU Bull 2X",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "TZAUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "Small Cap Bear 3X ETF",
+   "status": "named",
+   "us_blocked": true
+  },
+  "ZHIPUUSDT": {
+   "us_status": "ok",
+   "name": "Knowledge Atlas Technology",
+   "status": "named",
+   "us_blocked": false
+  },
+  "MINIMAXUSDT": {
+   "us_status": "ok",
+   "name": "MiniMax",
+   "status": "named",
+   "us_blocked": false
+  },
+  "SHAZUSDT": {
+   "us_status": "ok",
+   "name": "SharonAI",
+   "status": "named",
+   "us_blocked": false
+  },
+  "PENGSTOCKUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "geoblocked",
+   "status": "dead_or_unlisted",
+   "us_blocked": null,
+   "note": "lands on BTCUSDT from US and SG egress; treat as unavailable, not geoblocked"
+  },
+  "TENCENTUSDT": {
+   "us_status": "ok",
+   "name": "Tencent",
+   "status": "named",
+   "us_blocked": false
+  },
+  "INTWUSDT": {
+   "name": "GraniteShares 2x Long INTC",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "POPMARTUSDT": {
+   "us_status": "ok",
+   "name": "Pop Mart",
+   "status": "named",
+   "us_blocked": false
+  },
+  "TBTUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "ProShares UltraShort Lehman 20 Year Treasury ETF",
+   "status": "named",
+   "us_blocked": true
+  },
+  "KSTRUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "geoblocked",
+   "status": "dead_or_unlisted",
+   "us_blocked": null,
+   "note": "lands on BTCUSDT from US and SG egress; treat as unavailable, not geoblocked"
+  },
+  "MVLLUSDT": {
+   "name": "GraniteShares 2x Long MRVL",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "XBIUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "State Street SPDR S&P Biotech ETF",
+   "status": "named",
+   "us_blocked": true
+  },
+  "GIGADEVUSDT": {
+   "us_status": "ok",
+   "name": "Gigadevice Semiconductor",
+   "status": "named",
+   "us_blocked": false
+  },
+  "KUAISHOUUSDT": {
+   "us_status": "ok",
+   "name": "KUAISHOU",
+   "status": "named",
+   "us_blocked": false
+  },
+  "MEITUANUSDT": {
+   "us_status": "ok",
+   "name": "MEITUAN",
+   "status": "named",
+   "us_blocked": false
+  },
+  "CSOPHLS2LUSDT": {
+   "us_status": "ok",
+   "name": "CSOP SK Hynix Daily Max (2x) ETF",
+   "status": "named",
+   "us_blocked": false
+  },
+  "CSOPSX2LUSDT": {
+   "us_status": "ok",
+   "name": "CSOP Samsung Daily Max (2x) ETF",
+   "status": "named",
+   "us_blocked": false
+  },
+  "HANMIUSDT": {
+   "us_status": "ok",
+   "name": "HANMI Semiconductor",
+   "status": "named",
+   "us_blocked": false
+  },
+  "SAMSUNGEMUSDT": {
+   "us_status": "ok",
+   "name": "Samsung Electro-Mechanics",
+   "status": "named",
+   "us_blocked": false
+  },
+  "ZHONGJIUSDT": {
+   "us_status": "ok",
+   "name": "Zhongji Innolight",
+   "status": "named",
+   "us_blocked": false
+  },
+  "KODEX200USDT": {
+   "us_status": "ok",
+   "name": "Samsung KODEX 200 ETF",
+   "status": "named",
+   "us_blocked": false
+  },
+  "NAVERUSDT": {
+   "us_status": "ok",
+   "name": "NAVER Corp",
+   "status": "named",
+   "us_blocked": false
+  },
+  "LGEUSDT": {
+   "us_status": "ok",
+   "name": "LG Electronics",
+   "status": "named",
+   "us_blocked": false
+  },
+  "CXMTUSDT": {
+   "us_status": "ok",
+   "name": "CXMT Corporation",
+   "status": "named",
+   "us_blocked": false
+  },
+  "LYTEUSDT": {
+   "name": "Roundhill Photonics ETF",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "XIAOMIUSDT": {
+   "us_status": "ok",
+   "name": "Xiaomi Corporation",
+   "status": "named",
+   "us_blocked": false
+  },
+  "MOONSHOTUSDT": {
+   "us_status": "ok",
+   "name": "Moonshot AI",
+   "status": "named",
+   "us_blocked": false
+  },
+  "UNITREEUSDT": {
+   "us_status": "ok",
+   "name": "Unitree Robotics",
+   "status": "named",
+   "us_blocked": false
+  },
+  "SKDDUSDT": {
+   "name": "GraniteShares 2x Short SK Hynix",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "SKUUUSDT": {
+   "name": "SK Hynix (legacy)",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "NVDLUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "GraniteShares 2x Long NVDA ETF",
+   "status": "named",
+   "us_blocked": true
+  },
+  "NIULAIUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "NIULAI(\u725b\u4f86)",
+   "status": "named",
+   "us_blocked": true
+  },
+  "SHEINUSDT": {
+   "us_status": "ok",
+   "name": "SHEIN",
+   "status": "named",
+   "us_blocked": false
+  },
+  "GTLBUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "geoblocked",
+   "status": "dead_or_unlisted",
+   "us_blocked": null,
+   "note": "lands on BTCUSDT from US and SG egress; treat as unavailable, not geoblocked"
+  },
+  "HAJIMIUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "HAJIMI",
+   "status": "named",
+   "us_blocked": true
+  },
+  "AGPUUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "Axe Compute",
+   "status": "named",
+   "us_blocked": true
+  },
+  "OURAUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "Oura",
+   "status": "named",
+   "us_blocked": true
+  },
+  "TWSTUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "Twist Bioscience",
+   "status": "named",
+   "us_blocked": true
+  },
+  "BWETUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "Breakwave Tanker Shipping ETF",
+   "status": "named",
+   "us_blocked": true
+  },
+  "CRMLUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "Critical Metals",
+   "status": "named",
+   "us_blocked": true
+  },
+  "AKAMUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "Akamai Technologies",
+   "status": "named",
+   "us_blocked": true
+  },
+  "USDEXUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "StablecoinX",
+   "status": "named",
+   "us_blocked": true
+  },
+  "VKTXUSDT": {
+   "us_status": "geoblocked",
+   "sg_status": "ok",
+   "name": "Viking Therapeutics",
+   "status": "named",
+   "us_blocked": true
+  },
+  "ZCSHUSDT": {
+   "name": "Grayscale Zcash Trust",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "KORUUSDT": {
+   "name": "Direxion MSCI South Korea Bull 3X",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "SNDKUSDT": {
+   "status": "named",
+   "name": "SanDisk Corp.",
+   "note": "manual add 2026-10-20; Bitunix listing likely xStock (Backpack Securities tokenized share), real underlying relisted Nasdaq as SNDK; geoblock status unverified"
+  },
+  "AAPLUSDT": {
+   "name": "Apple",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "ADBEUSDT": {
+   "name": "Adobe",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "AMZNUSDT": {
+   "name": "Amazon",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "APLDUSDT": {
+   "name": "Applied Digital",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "APPUSDT": {
+   "name": "AppLovin",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "ARMUSDT": {
+   "name": "Arm Holdings",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "ASMLUSDT": {
+   "name": "ASML Holding",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "AVGOUSDT": {
+   "name": "Broadcom",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "COHRUSDT": {
+   "name": "Coherent",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "COINUSDT": {
+   "name": "Coinbase",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "CSCOUSDT": {
+   "name": "Cisco",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "DELLUSDT": {
+   "name": "Dell Technologies",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "GOOGLUSDT": {
+   "name": "Alphabet",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "HIMSUSDT": {
+   "name": "Hims & Hers Health",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "HOODUSDT": {
+   "name": "Robinhood",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "IBMUSDT": {
+   "name": "IBM",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "IONQUSDT": {
+   "name": "IonQ",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "IRENUSDT": {
+   "name": "IREN",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "KOUSDT": {
+   "name": "Coca-Cola",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "LLYUSDT": {
+   "name": "Eli Lilly",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "MPUSDT": {
+   "name": "MP Materials",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "MRNAUSDT": {
+   "name": "Moderna",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "MRVLUSDT": {
+   "name": "Marvell Technology",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "MSFTUSDT": {
+   "name": "Microsoft",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "NBISUSDT": {
+   "name": "Nebius",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "NETUSDT": {
+   "name": "Cloudflare",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "NFLXUSDT": {
+   "name": "Netflix",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "NKEUSDT": {
+   "name": "Nike",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "NVDAUSDT": {
+   "name": "Nvidia",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "OKLOUSDT": {
+   "name": "Oklo",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "OPENAIUSDT": {
+   "name": "OpenAI (pre-IPO)",
+   "status": "named",
+   "note": "round-3 forced, openai=pre-ipo"
+  },
+  "PLTRUSDT": {
+   "name": "Palantir",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "QBTSUSDT": {
+   "name": "Rigetti",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "QQQUSDT": {
+   "name": "Invesco QQQ Trust",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "RDDTUSDT": {
+   "name": "Reddit",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "RIVNUSDT": {
+   "name": "Rivian",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "RKLBUSDT": {
+   "name": "Rocket Lab",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "SHOPUSDT": {
+   "name": "Shopify",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "SMHUSDT": {
+   "name": "VanEck Semiconductor ETF",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "STRCUSDT": {
+   "name": "Strive ETF",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "TSMUSDT": {
+   "name": "TSMC",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "TEMUSDT": {
+   "name": "Tempus AI",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "TTWOUSDT": {
+   "name": "Take-Two Interactive",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "WDCUSDT": {
+   "name": "Western Digital",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "XOMUSDT": {
+   "name": "Exxon Mobil",
+   "status": "named",
+   "note": "round-3 forced"
+  },
+  "METAUSDT": {
+   "name": "Meta Platforms",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "TSLAUSDT": {
+   "name": "Tesla",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "SPYUSDT": {
+   "name": "SPDR S&P 500 ETF Trust",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "AMDUSDT": {
+   "name": "AMD",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "COSTUSDT": {
+   "name": "Costco",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "CRCLUSDT": {
+   "name": "Circle",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "DJTUSDT": {
+   "name": "Trump Media & Technology",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "MCDUSDT": {
+   "name": "McDonald's",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "ORCLUSDT": {
+   "name": "Oracle",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "ZMUSDT": {
+   "name": "Zoom Communications",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "VRTUSDT": {
+   "name": "Vertiv",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "VSTUSDT": {
+   "name": "Vistra",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "LITEUSDT": {
+   "name": "Lumentum",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "RUMUSDT": {
+   "name": "Rumble",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "BABAUSDT": {
+   "name": "Alibaba",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "AMCUSDT": {
+   "name": "AMC Entertainment",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "HDUSDT": {
+   "name": "Home Depot",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "MSTRUSDT": {
+   "name": "Strategy",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "BBUSDT": {
+   "name": "BlackBerry",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "SPCXUSDT": {
+   "name": "SpaceX",
+   "status": "named",
+   "note": "round-3 contamination fix"
+  },
+  "AAOIUSDT": {
+   "name": "Applied Optoelectronics",
+   "status": "named"
+  },
+  "ALABUSDT": {
+   "name": "Astera Labs",
+   "status": "named"
+  },
+  "AMATUSDT": {
+   "name": "Applied Materials",
+   "status": "named"
+  },
+  "ANETUSDT": {
+   "name": "Arista Networks",
+   "status": "named"
+  },
+  "ASTSUSDT": {
+   "name": "AST SpaceMobile",
+   "status": "named"
+  },
+  "AXTIUSDT": {
+   "name": "AXT Inc",
+   "status": "named"
+  },
+  "CBRSUSDT": {
+   "name": "Cerebras Systems",
+   "status": "named"
+  },
+  "CIENUSDT": {
+   "name": "Ciena Corporation",
+   "status": "named"
+  },
+  "CRDOUSDT": {
+   "name": "Credo Technology Group Holding Ltd Ordinary Shares",
+   "status": "named"
+  },
+  "CRWVUSDT": {
+   "name": "CoreWeave",
+   "status": "named"
+  },
+  "CVNAUSDT": {
+   "name": "Carvana Co.",
+   "status": "named"
+  },
+  "DDOGUSDT": {
+   "name": "Datadog",
+   "status": "named"
+  },
+  "EWYUSDT": {
+   "name": "iShares MSCI South Korea fund",
+   "status": "named"
+  },
+  "FLNCUSDT": {
+   "name": "Fluence Energy",
+   "status": "named"
+  },
+  "FUTUUSDT": {
+   "name": "Futu Holdings",
+   "status": "named"
+  },
+  "GEVUSDT": {
+   "name": "GE Vernova Inc.",
+   "status": "named"
+  },
+  "GLWUSDT": {
+   "name": "Corning",
+   "status": "named"
+  },
+  "HPEUSDT": {
+   "name": "Hewlett Packard Enterprise Company",
+   "status": "named"
+  },
+  "INFQUSDT": {
+   "name": "Infleqtion, Inc.",
+   "status": "named"
+  },
+  "KLACUSDT": {
+   "name": "KLA Corporation",
+   "status": "named"
+  },
+  "LRCXUSDT": {
+   "name": "Lam Research Corporation",
+   "status": "named"
+  },
+  "MDBUSDT": {
+   "name": "MongoDB",
+   "status": "named"
+  },
+  "PANWUSDT": {
+   "name": "Palo Alto Networks, Inc.",
+   "status": "named"
+  },
+  "PATHUSDT": {
+   "name": "UiPath Inc.",
+   "status": "named"
+  },
+  "QCOMUSDT": {
+   "name": "Qualcomm Inc.",
+   "status": "named"
+  },
+  "RDWUSDT": {
+   "name": "Redwire",
+   "status": "named"
+  },
+  "SATSUSDT": {
+   "name": "EchoStar",
+   "status": "named"
+  },
+  "SMCIUSDT": {
+   "name": "Super Micro Computer",
+   "status": "named"
+  },
+  "SOFIUSDT": {
+   "name": "SoFi Technologies",
+   "status": "named"
+  },
+  "TEAMUSDT": {
+   "name": "Atlassian Corporation",
+   "status": "named"
+  },
+  "UNHUSDT": {
+   "name": "UnitedHealth Group Incorporated",
+   "status": "named"
+  },
+  "USARUSDT": {
+   "name": "USA Rare Earth",
+   "status": "named"
+  },
+  "ZSUSDT": {
+   "name": "Zscaler",
+   "status": "named"
+  }
+ },
+ "exclude_crypto": [
+  "LUNA2",
+  "BEAMX",
+  "NIULAI",
+  "USDEX",
+  "HAJIMI",
+  "DATAIP",
+  "BNLIFE",
+  "CXMT",
+  "PHAROS"
+ ]
+}

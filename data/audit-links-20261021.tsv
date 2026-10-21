@@ -1,0 +1,1326 @@
+base	pair	category	name	link	in_cg_ids
+BTC	BTC/USDT	Crypto	Bitcoin	https://www.coingecko.com/en/coins/bitcoin	yes
+ETH	ETH/USDT	Crypto	Ethereum	https://www.coingecko.com/en/coins/ethereum	yes
+BNB	BNB/USDT	Crypto	BNB	https://www.coingecko.com/en/coins/binancecoin	yes
+XRP	XRP/USDT	Crypto	XRP		no
+ADA	ADA/USDT	Crypto	Cardano		no
+LTC	LTC/USDT	Crypto	Litecoin		no
+DOGE	DOGE/USDT	Crypto	Dogecoin		no
+SOL	SOL/USDT	Crypto	Solana	https://www.coingecko.com/en/coins/solana	yes
+DOT	DOT/USDT	Crypto	Polkadot		no
+AVAX	AVAX/USDT	Crypto	Avalanche		no
+TRX	TRX/USDT	Crypto	TRON		no
+LINK	LINK/USDT	Crypto	Chainlink	https://www.coingecko.com/en/coins/chainlink	yes
+ATOM	ATOM/USDT	Crypto	Cosmos	https://www.coingecko.com/en/coins/cosmos	yes
+ETC	ETC/USDT	Crypto	Ethereum Classic	https://www.coingecko.com/en/coins/ethereum-classic	yes
+UNI	UNI/USDT	Crypto	Uniswap	https://www.coingecko.com/en/coins/uniswap	yes
+XLM	XLM/USDT	Crypto	Stellar	https://www.coingecko.com/en/coins/stellar	yes
+ICP	ICP/USDT	Crypto	Internet Computer	https://www.coingecko.com/en/coins/internet-computer	yes
+FIL	FIL/USDT	Crypto	Filecoin		no
+BCH	BCH/USDT	Crypto	Bitcoin Cash		no
+APT	APT/USDT	Crypto	Aptos	https://www.coingecko.com/en/coins/aptos	yes
+ZEC	ZEC/USDT	Crypto	Zcash		no
+BAT	BAT/USDT	Crypto	Basic Attention		no
+DYDX	DYDX/USDT	Crypto	dYdX		no
+ARB	ARB/USDT	Crypto	Arbitrum	https://www.coingecko.com/en/coins/arbitrum	yes
+APE	APE/USDT	Crypto	Ape	https://www.coingecko.com/en/coins/apecoin	yes
+LDO	LDO/USDT	Crypto	Lido DAO		no
+CRV	CRV/USDT	Crypto	Bridged Curve DAO Token (Stargate)		no
+MASK	MASK/USDT	Crypto	catwifmask		no
+VET	VET/USDT	Crypto	VeChain	https://www.coingecko.com/en/coins/vechain	yes
+NEAR	NEAR/USDT	Crypto	NEAR Protocol	https://www.coingecko.com/en/coins/near	yes
+AAVE	AAVE/USDT	Crypto	Aave	https://www.coingecko.com/en/coins/aave	yes
+GRT	GRT/USDT	Crypto	The Graph	https://www.coingecko.com/en/coins/the-graph	yes
+OP	OP/USDT	Crypto	One Path	https://www.coingecko.com/en/coins/optimism	yes
+EGLD	EGLD/USDT	Crypto	MultiversX	https://www.coingecko.com/en/coins/elrond-erd-2	yes
+STX	STX/USDT	Crypto	Stacks	https://www.coingecko.com/en/coins/blockstack	yes
+SAND	SAND/USDT	Crypto	The Sandbox		no
+ALGO	ALGO/USDT	Crypto	Algorand		no
+SUI	SUI/USDT	Crypto	Sui	https://www.coingecko.com/en/coins/sui	yes
+IMX	IMX/USDT	Crypto	Immutable	https://www.coingecko.com/en/coins/immutable-x	yes
+SNX	SNX/USDT	Crypto	Synthetix	https://www.coingecko.com/en/coins/havven	yes
+GALA	GALA/USDT	Crypto	GALA	https://www.coingecko.com/en/coins/gala	yes
+THETA	THETA/USDT	Crypto	Theta Network	https://www.coingecko.com/en/coins/theta-token	yes
+MANA	MANA/USDT	Crypto	Decentraland		no
+XTZ	XTZ/USDT	Crypto	Binance-Peg Tezos Token		no
+AXS	AXS/USDT	Crypto	Axie Infinity	https://www.coingecko.com/en/coins/axie-infinity	yes
+COMP	COMP/USDT	Crypto	Compound	https://www.coingecko.com/en/coins/compound-governance-token	yes
+CYBER	CYBER/USDT	Crypto	CYBER		no
+WLD	WLD/USDT	Crypto	Worldcoin	https://www.coingecko.com/en/coins/worldcoin-wld	yes
+TRB	TRB/USDT	Crypto	Tellor Tributes	https://www.coingecko.com/en/coins/tellor	yes
+RUNE	RUNE/USDT	Crypto	Rune		no
+BIGTIME	BIGTIME/USDT	Crypto	Big Time	https://www.coingecko.com/en/coins/big-time	yes
+INJ	INJ/USDT	Crypto	Injective	https://www.coingecko.com/en/coins/injective-protocol	yes
+CAKE	CAKE/USDT	Crypto	PancakeSwap	https://www.coingecko.com/en/coins/pancakeswap-token	yes
+CELO	CELO/USDT	Crypto	Celo	https://www.coingecko.com/en/coins/celo	yes
+XAI	XAI/USDT	Crypto	SideShift		no
+ORDI	ORDI/USDT	Crypto	ORDI	https://www.coingecko.com/en/coins/ordinals	yes
+JTO	JTO/USDT	Crypto	Jito	https://www.coingecko.com/en/coins/jito-governance-token	yes
+TIA	TIA/USDT	Crypto	Celestia		no
+ENS	ENS/USDT	Crypto	Ethereum Name Service	https://www.coingecko.com/en/coins/ethereum-name-service	yes
+RATS	RATS/USDT	Crypto	GoldenRat		no
+PEOPLE	PEOPLE/USDT	Crypto	ConstitutionDAO		no
+SEI	SEI/USDT	Crypto	LayerZero Bridged Sei		no
+BONK	BONK/USDT	Crypto	Based Bonk		no
+MEME	MEME/USDT	Crypto	1 meme can change your life	https://www.coingecko.com/en/coins/memecoin-2	yes
+ACE	ACE/USDT	Crypto	Ace Data Cloud	https://www.coingecko.com/en/coins/endurance	yes
+SATS	SATS/USDT	Crypto	EchoStar • Robinhood Token		no
+PYTH	PYTH/USDT	Crypto	Pyth Network	https://www.coingecko.com/en/coins/pyth-network	yes
+BLUR	BLUR/USDT	Crypto	Blur	https://www.coingecko.com/en/coins/blur	yes
+T	T/USDT	Crypto	Talos		no
+GMT	GMT/USDT	Crypto	GMT	https://www.coingecko.com/en/coins/stepn	yes
+PEPE	PEPE/USDT	Crypto	BABY PEPE		no
+SHIB	SHIB/USDT	Crypto	Binance-Peg SHIB		no
+CFX	CFX/USDT	Crypto	CF Industries xStock		no
+MOVR	MOVR/USDT	Crypto	Moonriver	https://www.coingecko.com/en/coins/moonriver	yes
+BSV	BSV/USDT	Crypto	Bitcoin SV	https://www.coingecko.com/en/coins/bitcoin-cash-sv	yes
+MINA	MINA/USDT	Crypto	Mina Protocol	https://www.coingecko.com/en/coins/mina-protocol	yes
+AUCTION	AUCTION/USDT	Crypto	Bounce		no
+LUNC	LUNC/USDT	Crypto	Terra Classic (Wormhole)		no
+AR	AR/USDT	Crypto	Arweave	https://www.coingecko.com/en/coins/arweave	yes
+SSV	SSV/USDT	Crypto	SSV Network	https://www.coingecko.com/en/coins/ssv-network	yes
+MAGIC	MAGIC/USDT	Crypto	Treasure		no
+CHZ	CHZ/USDT	Crypto	Chiliz	https://www.coingecko.com/en/coins/chiliz	yes
+POWR	POWR/USDT	Crypto	Powerledger	https://www.coingecko.com/en/coins/power-ledger	yes
+LUNA2	LUNA2/USDT	TradFi	Terra	https://finance.yahoo.com/quote/LUNA2/	no
+PENDLE	PENDLE/USDT	Crypto	Pendle	https://www.coingecko.com/en/coins/pendle	yes
+LPT	LPT/USDT	Crypto	Livepeer	https://www.coingecko.com/en/coins/livepeer	yes
+1INCH	1INCH/USDT	Crypto	1INCH	https://www.coingecko.com/en/coins/1inch	yes
+FET	FET/USDT	Crypto	Artificial Superintelligence Alliance	https://www.coingecko.com/en/coins/fetch-ai	yes
+ASTR	ASTR/USDT	Crypto	Astar	https://www.coingecko.com/en/coins/astar	yes
+WOO	WOO/USDT	Crypto	ウー		no
+USTC	USTC/USDT	Crypto	TerraClassicUSD		no
+ROSE	ROSE/USDT	Crypto	MissRose		no
+BEAMX	BEAMX/USDT	TradFi	BEAM	https://finance.yahoo.com/quote/BEAMX/	no
+SKL	SKL/USDT	Crypto	SKALE	https://www.coingecko.com/en/coins/skale	yes
+GAS	GAS/USDT	Crypto	Gas		no
+MAV	MAV/USDT	Crypto	Maverick Protocol	https://www.coingecko.com/en/coins/maverick-protocol	yes
+DUSK	DUSK/USDT	Crypto	DUSK	https://www.coingecko.com/en/coins/dusk-network	yes
+FLOW	FLOW/USDT	Crypto	Flow		no
+XMR	XMR/USDT	Crypto	Monero	https://www.coingecko.com/en/coins/monero	yes
+NEO	NEO/USDT	Crypto	NEO	https://www.coingecko.com/en/coins/neo	yes
+ZEN	ZEN/USDT	Crypto	ZEN		no
+OGN	OGN/USDT	Crypto	Origin Token	https://www.coingecko.com/en/coins/origin-protocol	yes
+ONT	ONT/USDT	Crypto	Binance-Peg Ontology	https://www.coingecko.com/en/coins/ontology	yes
+HBAR	HBAR/USDT	Crypto	Hedera	https://www.coingecko.com/en/coins/hedera-hashgraph	yes
+C98	C98/USDT	Crypto	Coin98	https://www.coingecko.com/en/coins/coin98	yes
+ETHW	ETHW/USDT	Crypto	EthereumPoW	https://www.coingecko.com/en/coins/ethereum-pow-iou	yes
+SUSHI	SUSHI/USDT	Crypto	Sushi	https://www.coingecko.com/en/coins/sushi	yes
+ARPA	ARPA/USDT	Crypto	ARPA	https://www.coingecko.com/en/coins/arpa	yes
+KSM	KSM/USDT	Crypto	Kusama	https://www.coingecko.com/en/coins/kusama	yes
+ID	ID/USDT	Crypto	ArcID	https://www.coingecko.com/en/coins/space-id	yes
+CHR	CHR/USDT	Crypto	Chromia		no
+ARKM	ARKM/USDT	Crypto	Arkham	https://www.coingecko.com/en/coins/arkham	yes
+AGLD	AGLD/USDT	Crypto	Adventure Gold		no
+JOE	JOE/USDT	Crypto	EmotiGuy		no
+KAS	KAS/USDT	Crypto	Kaspa	https://www.coingecko.com/en/coins/kaspa	yes
+ZRX	ZRX/USDT	Crypto	0x Protocol	https://www.coingecko.com/en/coins/0x	yes
+KAVA	KAVA/USDT	Crypto	Kava	https://www.coingecko.com/en/coins/kava	yes
+ARK	ARK/USDT	Crypto	ARK	https://www.coingecko.com/en/coins/ark	yes
+JASMY	JASMY/USDT	Crypto	JasmyCoin	https://www.coingecko.com/en/coins/jasmycoin	yes
+ONG	ONG/USDT	Crypto	Ontology Gas	https://www.coingecko.com/en/coins/ong	yes
+IOTA	IOTA/USDT	Crypto	IOTA	https://www.coingecko.com/en/coins/iota	yes
+QTUM	QTUM/USDT	Crypto	Qtum	https://www.coingecko.com/en/coins/qtum	yes
+YFI	YFI/USDT	Crypto	yearn.finance		no
+SUPER	SUPER/USDT	Crypto	Superclaw	https://www.coingecko.com/en/coins/superfarm	yes
+ZIL	ZIL/USDT	Crypto	Zilliqa	https://www.coingecko.com/en/coins/zilliqa	yes
+GMX	GMX/USDT	Crypto	General Motors xStock		no
+RIF	RIF/USDT	Crypto	Rootstock Infrastructure Framework	https://www.coingecko.com/en/coins/rif-token	yes
+FLOKI	FLOKI/USDT	Crypto	FLOKI	https://www.coingecko.com/en/coins/floki	yes
+HOT	HOT/USDT	Crypto	Holo	https://www.coingecko.com/en/coins/holotoken	yes
+LQTY	LQTY/USDT	Crypto	Liquity	https://www.coingecko.com/en/coins/liquity	yes
+ANKR	ANKR/USDT	Crypto	Ankr Network	https://www.coingecko.com/en/coins/ankr	yes
+POLYX	POLYX/USDT	Crypto	Polymesh	https://www.coingecko.com/en/coins/polymesh	yes
+ENJ	ENJ/USDT	Crypto	Enjin Coin	https://www.coingecko.com/en/coins/enjincoin	yes
+ALICE	ALICE/USDT	Crypto	Alice		no
+RSR	RSR/USDT	Crypto	Reserve Rights	https://www.coingecko.com/en/coins/reserve-rights-token	yes
+MTL	MTL/USDT	Crypto	Metal DAO	https://www.coingecko.com/en/coins/metal	yes
+API3	API3/USDT	Crypto	Api3	https://www.coingecko.com/en/coins/api3	yes
+GTC	GTC/USDT	Crypto	Gitcoin		no
+QNT	QNT/USDT	Crypto	Quant	https://www.coingecko.com/en/coins/quant-network	yes
+WIF	WIF/USDT	Crypto	dogwifhat		no
+JUP	JUP/USDT	Crypto	Jupiter		no
+BOME	BOME/USDT	Crypto	BOOK OF MEME	https://www.coingecko.com/en/coins/book-of-meme	yes
+ONDO	ONDO/USDT	Crypto	Ondo Finance	https://www.coingecko.com/en/coins/ondo-finance	yes
+ETHFI	ETHFI/USDT	Crypto	Ether.fi	https://www.coingecko.com/en/coins/ether-fi	yes
+W	W/USDT	Crypto	Victorious	https://www.coingecko.com/en/coins/wormhole	yes
+ENA	ENA/USDT	Crypto	Ethena	https://www.coingecko.com/en/coins/ethena	yes
+PIXEL	PIXEL/USDT	Crypto	pixelcoin.fun		no
+EDU	EDU/USDT	Crypto	Open Campus	https://www.coingecko.com/en/coins/edu-coin	yes
+CTSI	CTSI/USDT	Crypto	Cartesi	https://www.coingecko.com/en/coins/cartesi	yes
+KNC	KNC/USDT	Crypto	Kyber Network Crystal	https://www.coingecko.com/en/coins/kyber-network-crystal	yes
+ONE	ONE/USDT	Crypto	ONEchain		no
+AEVO	AEVO/USDT	Crypto	Aevo	https://www.coingecko.com/en/coins/aevo-exchange	yes
+ZETA	ZETA/USDT	Crypto	ZetaChain	https://www.coingecko.com/en/coins/zetachain	yes
+SAGA	SAGA/USDT	Crypto	Saga	https://www.coingecko.com/en/coins/saga-2	yes
+TAO	TAO/USDT	Crypto	Bittensor		no
+TNSR	TNSR/USDT	Crypto	Tensor	https://www.coingecko.com/en/coins/tensor	yes
+BNT	BNT/USDT	Crypto	Bancor Network	https://www.coingecko.com/en/coins/bancor	yes
+CKB	CKB/USDT	Crypto	Nervos Network	https://www.coingecko.com/en/coins/nervos-network	yes
+MANTA	MANTA/USDT	Crypto	Manta Network	https://www.coingecko.com/en/coins/manta-network	yes
+ACH	ACH/USDT	Crypto	Alchemy Pay		no
+YGG	YGG/USDT	Crypto	Yield Guild Games	https://www.coingecko.com/en/coins/yield-guild-games	yes
+REZ	REZ/USDT	Crypto	Renzo	https://www.coingecko.com/en/coins/renzo	yes
+SLP	SLP/USDT	Crypto	Sivo DeFi		no
+CELR	CELR/USDT	Crypto	Celer Network	https://www.coingecko.com/en/coins/celer-network	yes
+STRK	STRK/USDT	Crypto	Starknet		no
+TLM	TLM/USDT	Crypto	Alien Worlds	https://www.coingecko.com/en/coins/alien-worlds	yes
+DYM	DYM/USDT	Crypto	Dymension	https://www.coingecko.com/en/coins/dymension	yes
+GLM	GLM/USDT	Crypto	Golem	https://www.coingecko.com/en/coins/golem	yes
+BB	BB/USDT	Crypto	Backyard Bandwidth		no
+UMA	UMA/USDT	Crypto	UMA	https://www.coingecko.com/en/coins/uma	yes
+LSK	LSK/USDT	Crypto	Lisk	https://www.coingecko.com/en/coins/lisk	yes
+NOT	NOT/USDT	Crypto	Notcoin		no
+BICO	BICO/USDT	Crypto	Biconomy	https://www.coingecko.com/en/coins/biconomy	yes
+AXL	AXL/USDT	Crypto	Axelar	https://www.coingecko.com/en/coins/axelar	yes
+BAND	BAND/USDT	Crypto	bandforband.fun		no
+NMR	NMR/USDT	Crypto	Numeraire	https://www.coingecko.com/en/coins/numeraire	yes
+IOTX	IOTX/USDT	Crypto	Binance-Peg IoTeX		no
+SPELL	SPELL/USDT	Crypto	Spell		no
+TURBO	TURBO/USDT	Crypto	Based Turbo		no
+DASH	DASH/USDT	Crypto	Dash		no
+RVN	RVN/USDT	Crypto	Ravencoin		no
+ALT	ALT/USDT	Crypto	Alitas		no
+ILV	ILV/USDT	Crypto	Illuvium	https://www.coingecko.com/en/coins/illuvium	yes
+IO	IO/USDT	Crypto	io.net	https://www.coingecko.com/en/coins/io	yes
+ZK	ZK/USDT	Crypto	ZKsync	https://www.coingecko.com/en/coins/zksync	yes
+IOST	IOST/USDT	Crypto	IOST	https://www.coingecko.com/en/coins/iostoken	yes
+ZRO	ZRO/USDT	Crypto	LayerZero	https://www.coingecko.com/en/coins/layerzero	yes
+LISTA	LISTA/USDT	Crypto	Lista DAO	https://www.coingecko.com/en/coins/lista	yes
+TWT	TWT/USDT	Crypto	Trust Wallet	https://www.coingecko.com/en/coins/trust-wallet-token	yes
+MEW	MEW/USDT	Crypto	cat in a dogs world	https://www.coingecko.com/en/coins/cat-in-a-dogs-world	yes
+SFP	SFP/USDT	Crypto	SafePal	https://www.coingecko.com/en/coins/safepal	yes
+WAXP	WAXP/USDT	Crypto	WAX	https://www.coingecko.com/en/coins/wax	yes
+RENDER	RENDER/USDT	Crypto	Render Network	https://www.coingecko.com/en/coins/render-token	yes
+COTI	COTI/USDT	Crypto	COTI	https://www.coingecko.com/en/coins/coti	yes
+RARE	RARE/USDT	Crypto	SuperRare		no
+BANANA	BANANA/USDT	Crypto	ApeSwap		no
+SYN	SYN/USDT	Crypto	Synapse	https://www.coingecko.com/en/coins/synapse-2	yes
+DOGS	DOGS/USDT	Crypto	Dogs (TON)	https://www.coingecko.com/en/coins/dogs	no
+POPCAT	POPCAT/USDT	Crypto	Popcat	https://www.coingecko.com/en/coins/popcat	yes
+POL	POL/USDT	Crypto	Polygon Ecosystem Token		no
+FIDA	FIDA/USDT	Crypto	Bonfida	https://www.coingecko.com/en/coins/bonfida	yes
+EIGEN	EIGEN/USDT	Crypto	EigenCloud (prev. EigenLayer)	https://www.coingecko.com/en/coins/eigenlayer	yes
+DIA	DIA/USDT	Crypto	DIA	https://www.coingecko.com/en/coins/dia-data	yes
+SUN	SUN/USDT	Crypto	Sun Token	https://www.coingecko.com/en/coins/sun-token	yes
+GOAT	GOAT/USDT	Crypto	Absolute Goat		no
+MOODENG	MOODENG/USDT	Crypto	Moo Deng		no
+SAFE	SAFE/USDT	Crypto	Safe		no
+CATI	CATI/USDT	Crypto	Catizen	https://www.coingecko.com/en/coins/catizen	yes
+HMSTR	HMSTR/USDT	Crypto	Hamster Kombat	https://www.coingecko.com/en/coins/hamster-kombat	yes
+GRASS	GRASS/USDT	Crypto	Grass		no
+COW	COW/USDT	Crypto	Cow		no
+PNUT	PNUT/USDT	Crypto	Peanut		no
+ACT	ACT/USDT	Crypto	Acet		no
+METIS	METIS/USDT	Crypto	Medusa		no
+BAN	BAN/USDT	Crypto	Banano		no
+DRIFT	DRIFT/USDT	Crypto	Drift Protocol	https://www.coingecko.com/en/coins/drift-protocol	yes
+BRETT	BRETT/USDT	Crypto	Brett		no
+CHEEMS	CHEEMS/USDT	Crypto	Cheems		no
+THE	THE/USDT	Crypto	the coin		no
+MORPHO	MORPHO/USDT	Crypto	Morpho		no
+CHILLGUY	CHILLGUY/USDT	Crypto	Just a chill guy		no
+SCR	SCR/USDT	Crypto	Score11		no
+CETUS	CETUS/USDT	Crypto	Cetus Protocol	https://www.coingecko.com/en/coins/cetus-protocol	yes
+MOVE	MOVE/USDT	Crypto	MoveApp		no
+ME	ME/USDT	Crypto	Literally Me		no
+VELODROME	VELODROME/USDT	Crypto	VELODROME		no
+MOCA	MOCA/USDT	Crypto	Moca Network		no
+PENGU	PENGU/USDT	Crypto	Pudgy Penguins	https://www.coingecko.com/en/coins/pudgy-penguins	yes
+1000CAT	1000CAT/USDT	Crypto	1000CAT	https://www.coingecko.com/en/coins/1000cat	yes
+USUAL	USUAL/USDT	Crypto	Usual	https://www.coingecko.com/en/coins/usual	yes
+KOMA	KOMA/USDT	Crypto	Koma Inu	https://www.coingecko.com/en/coins/koma-inu	yes
+VANA	VANA/USDT	Crypto	Vana	https://www.coingecko.com/en/coins/vana	yes
+STEEM	STEEM/USDT	Crypto	Steem	https://www.coingecko.com/en/coins/steem	yes
+AIXBT	AIXBT/USDT	Crypto	aixbt	https://www.coingecko.com/en/coins/aixbt	yes
+HIVE	HIVE/USDT	Crypto	Hive		no
+VIRTUAL	VIRTUAL/USDT	Crypto	Virtuals Protocol	https://www.coingecko.com/en/coins/virtual-protocol	yes
+GRIFFAIN	GRIFFAIN/USDT	Crypto	GRIFFAIN	https://www.coingecko.com/en/coins/griffain	yes
+FARTCOIN	FARTCOIN/USDT	Crypto	Based Fartcoin		no
+ZEREBRO	ZEREBRO/USDT	Crypto	Zerebro	https://www.coingecko.com/en/coins/zerebro	yes
+BIO	BIO/USDT	Crypto	Bio Protocol		no
+PORTAL	PORTAL/USDT	Crypto	Portal	https://www.coingecko.com/en/coins/portal-2	yes
+SWARMS	SWARMS/USDT	Crypto	Swarms	https://www.coingecko.com/en/coins/swarms	yes
+ALCH	ALCH/USDT	Crypto	Alchemist AI	https://www.coingecko.com/en/coins/alchemist-ai	yes
+COOKIE	COOKIE/USDT	Crypto	Cookie DAO		no
+SONIC	SONIC/USDT	Crypto	Sonic Snipe Bot		no
+BABYDOGE	BABYDOGE/USDT	Crypto	Baby Doge Coin	https://www.coingecko.com/en/coins/baby-doge-coin	yes
+S	S/USDT	Crypto	Sonic (ex-Fantom)		no
+TRUMP	TRUMP/USDT	Crypto	Official Trump		no
+MELANIA	MELANIA/USDT	Crypto	Melania Meme	https://www.coingecko.com/en/coins/melania-meme	yes
+SPX	SPX/USDT	Crypto	ShopinX		no
+SOLV	SOLV/USDT	Crypto	Solv Protocol	https://www.coingecko.com/en/coins/solv-protocol	yes
+DEXE	DEXE/USDT	Crypto	DeXe	https://www.coingecko.com/en/coins/dexe	yes
+VTHO	VTHO/USDT	Crypto	VeThor	https://www.coingecko.com/en/coins/vethor-token	yes
+ANIME	ANIME/USDT	Crypto	A New Internet Money Era		no
+PIPPIN	PIPPIN/USDT	Crypto	pippin	https://www.coingecko.com/en/coins/pippin	yes
+CGPT	CGPT/USDT	Crypto	ChainGPT	https://www.coingecko.com/en/coins/chaingpt	yes
+AVA	AVA/USDT	Crypto	Ansem Vs Alon		no
+KMNO	KMNO/USDT	Crypto	Kamino	https://www.coingecko.com/en/coins/kamino	yes
+VVV	VVV/USDT	Crypto	Venice Token	https://www.coingecko.com/en/coins/venice-token	yes
+BERA	BERA/USDT	Crypto	Berachain	https://www.coingecko.com/en/coins/berachain-bera	yes
+TST	TST/USDT	Crypto	Teleport System Token		no
+LAYER	LAYER/USDT	Crypto	Solayer		no
+PROM	PROM/USDT	Crypto	Prom	https://www.coingecko.com/en/coins/prometeus	yes
+HEI	HEI/USDT	Crypto	Heima	https://www.coingecko.com/en/coins/heima	yes
+SHELL	SHELL/USDT	Crypto	MyShell		no
+GPS	GPS/USDT	Crypto	GoPlus Security	https://www.coingecko.com/en/coins/goplus-security	yes
+KAITO	KAITO/USDT	Crypto	KAITO	https://www.coingecko.com/en/coins/kaito	yes
+RLC	RLC/USDT	Crypto	iExec RLC	https://www.coingecko.com/en/coins/iexec-rlc	yes
+G	G/USDT	Crypto	Giants Protocol		no
+RED	RED/USDT	Crypto	Consolidated Edison Tokenized Stock (Reality)	https://www.coingecko.com/en/coins/redstone-oracles	yes
+MUBARAK	MUBARAK/USDT	Crypto	Mubarak		no
+BMT	BMT/USDT	Crypto	Bitcoin Maxi Tears		no
+FORM	FORM/USDT	Crypto	Four	https://www.coingecko.com/en/coins/four	yes
+TUT	TUT/USDT	Crypto	Tutorial	https://www.coingecko.com/en/coins/tutorial	yes
+PLUME	PLUME/USDT	Crypto	Plume	https://www.coingecko.com/en/coins/plume	yes
+BR	BR/USDT	Crypto	Bedrock	https://www.coingecko.com/en/coins/bedrock-token	yes
+SIREN	SIREN/USDT	Crypto	Siren	https://www.coingecko.com/en/coins/siren-2	yes
+ORCA	ORCA/USDT	Crypto	Orca	https://www.coingecko.com/en/coins/orca	yes
+BANANAS31	BANANAS31/USDT	Crypto	Banana For Scale	https://www.coingecko.com/en/coins/banana-for-scale-2	yes
+XAUT	XAUT/USDT	Crypto	Tether Gold	https://www.coingecko.com/en/coins/tether-gold	yes
+PARTI	PARTI/USDT	Crypto	Particle Network	https://www.coingecko.com/en/coins/particle-network	yes
+NIL	NIL/USDT	Crypto	Nillion	https://www.coingecko.com/en/coins/nillion	yes
+JELLYJELLY	JELLYJELLY/USDT	Crypto	Jelly-My-Jelly	https://www.coingecko.com/en/coins/jelly-my-jelly	yes
+MAVIA	MAVIA/USDT	Crypto	Heroes of Mavia	https://www.coingecko.com/en/coins/heroes-of-mavia	yes
+HYPE	HYPE/USDT	Crypto	Hyperliquid	https://www.coingecko.com/en/coins/hyperliquid	yes
+WAL	WAL/USDT	Crypto	Walrus	https://www.coingecko.com/en/coins/walrus-2	yes
+GUN	GUN/USDT	Crypto	Gunz	https://www.coingecko.com/en/coins/gunz	yes
+PAXG	PAXG/USDT	Crypto	PAX Gold	https://www.coingecko.com/en/coins/pax-gold	yes
+RAY	RAY/USDT	Crypto	Raydium	https://www.coingecko.com/en/coins/raydium	yes
+ATH	ATH/USDT	Crypto	Aethir		no
+AERO	AERO/USDT	Crypto	Aerodrome Finance	https://www.coingecko.com/en/coins/aerodrome-finance	yes
+KAIA	KAIA/USDT	Crypto	Illusive AI		no
+BABY	BABY/USDT	Crypto	A Fund Baby		no
+BROCCOLI	BROCCOLI/USDT	Crypto	BROCCOLI		no
+STO	STO/USDT	Crypto	StakeStone		no
+FHE	FHE/USDT	Crypto	Mind Network	https://www.coingecko.com/en/coins/mind-network	yes
+PI	PI/USDT	Crypto	3.141592653589793238462643383279	https://www.coingecko.com/en/coins/pi-network	yes
+KERNEL	KERNEL/USDT	Crypto	KernelDAO	https://www.coingecko.com/en/coins/kernel-2	yes
+WCT	WCT/USDT	Crypto	WalletConnect Token	https://www.coingecko.com/en/coins/connect-token-wct	yes
+DEEP	DEEP/USDT	Crypto	DeepBook		no
+BANK	BANK/USDT	Crypto	Bankcoin		no
+HYPER	HYPER/USDT	Crypto	Hyper		no
+INIT	INIT/USDT	Crypto	Inite		no
+ZBCN	ZBCN/USDT	Crypto	Zebec Network	https://www.coingecko.com/en/coins/zebec-network	yes
+SIGN	SIGN/USDT	Crypto	Sign	https://www.coingecko.com/en/coins/sign-global	yes
+JST	JST/USDT	Crypto	JUST	https://www.coingecko.com/en/coins/just	yes
+CORE	CORE/USDT	Crypto	Core		no
+PUNDIX	PUNDIX/USDT	Crypto	Pundi X	https://www.coingecko.com/en/coins/pundi-x-2	yes
+CTK	CTK/USDT	Crypto	Shentu		no
+DOLO	DOLO/USDT	Crypto	Dolomite	https://www.coingecko.com/en/coins/dolomite	yes
+HAEDAL	HAEDAL/USDT	Crypto	Haedal Protocol	https://www.coingecko.com/en/coins/haedal	yes
+AVAAI	AVAAI/USDT	Crypto	AVAAI		no
+B2	B2/USDT	Crypto	BSquared Network	https://www.coingecko.com/en/coins/bsquared-network	yes
+SYRUP	SYRUP/USDT	Crypto	Maple Finance	https://www.coingecko.com/en/coins/syrup	yes
+ALPINE	ALPINE/USDT	Crypto	Alpine F1 Team Fan Token	https://www.coingecko.com/en/coins/alpine-f1-team-fan-token	yes
+SXT	SXT/USDT	Crypto	Space and Time	https://www.coingecko.com/en/coins/space-and-time	yes
+ASR	ASR/USDT	Crypto	AS Roma Fan Token	https://www.coingecko.com/en/coins/as-roma-fan-token	yes
+DOOD	DOOD/USDT	Crypto	Doodles	https://www.coingecko.com/en/coins/doodles	yes
+OG	OG/USDT	Crypto	OG Fan Token	https://www.coingecko.com/en/coins/og-fan-token	yes
+SKYAI	SKYAI/USDT	Crypto	SkyAI	https://www.coingecko.com/en/coins/skyai	yes
+NXPC	NXPC/USDT	Crypto	Bridged NXPC		no
+CVC	CVC/USDT	Crypto	Civic	https://www.coingecko.com/en/coins/civic	yes
+AWE	AWE/USDT	Crypto	AWE Network	https://www.coingecko.com/en/coins/stp-network	yes
+B	B/USDT	Crypto	B		no
+SOON	SOON/USDT	Crypto	SOON		no
+HUMA	HUMA/USDT	Crypto	Huma Finance	https://www.coingecko.com/en/coins/huma-finance	yes
+A	A/USDT	Crypto	Vaulta		no
+SOPH	SOPH/USDT	Crypto	SophiaVerse		no
+MERL	MERL/USDT	Crypto	Merlin Chain	https://www.coingecko.com/en/coins/merlin-chain	yes
+MNT	MNT/USDT	Crypto	Mantle		no
+MOG	MOG/USDT	Crypto	Based Mog Coin		no
+LA	LA/USDT	Crypto	Lagrange		no
+HOME	HOME/USDT	Crypto	HOME		no
+RESOLV	RESOLV/USDT	Crypto	Resolv	https://www.coingecko.com/en/coins/resolv	yes
+SQD	SQD/USDT	Crypto	SQD	https://www.coingecko.com/en/coins/subsquid	yes
+TAIKO	TAIKO/USDT	Crypto	Taiko	https://www.coingecko.com/en/coins/taiko	yes
+SPK	SPK/USDT	Crypto	Spark	https://www.coingecko.com/en/coins/spark-2	yes
+MYX	MYX/USDT	Crypto	MYX Finance	https://www.coingecko.com/en/coins/myx-finance	yes
+F	F/USDT	Crypto	F		no
+NEWT	NEWT/USDT	Crypto	Newton Protocol	https://www.coingecko.com/en/coins/newton-protocol	yes
+H	H/USDT	Crypto	H		no
+SAHARA	SAHARA/USDT	Crypto	Sahara AI	https://www.coingecko.com/en/coins/sahara-ai	yes
+ICNT	ICNT/USDT	Crypto	Impossible Cloud Network Token	https://www.coingecko.com/en/coins/impossible-cloud-network-token	yes
+IDOL	IDOL/USDT	Crypto	MEET48	https://www.coingecko.com/en/coins/meet48	yes
+AIN	AIN/USDT	Crypto	AInalyst		no
+CROSS	CROSS/USDT	Crypto	CROSS		no
+M	M/USDT	Crypto	Mantis	https://www.coingecko.com/en/coins/memecore	yes
+PUMPFUN	PUMPFUN/USDT	Crypto	PUMPFUN		no
+C	C/USDT	Crypto	C		no
+TAC	TAC/USDT	Crypto	TAC	https://www.coingecko.com/en/coins/tac	yes
+VELVET	VELVET/USDT	Crypto	Velvet	https://www.coingecko.com/en/coins/velvet	yes
+CVX	CVX/USDT	Crypto	Chevron Corp (Dinari Tokenized Stock)		no
+ERA	ERA/USDT	Crypto	Caldera	https://www.coingecko.com/en/coins/caldera	yes
+TA	TA/USDT	Crypto	TA FUND		no
+USELESS	USELESS/USDT	Crypto	Useless Coin		no
+ZORA	ZORA/USDT	Crypto	Zora	https://www.coingecko.com/en/coins/zora	yes
+TAG	TAG/USDT	Crypto	TAGGER	https://www.coingecko.com/en/coins/tagger	yes
+TREE	TREE/USDT	Crypto	Thickquidity		no
+ESPORTS	ESPORTS/USDT	Crypto	Yooldo Games	https://www.coingecko.com/en/coins/yooldo-games	yes
+NAORIS	NAORIS/USDT	Crypto	NaoX Protocol	https://www.coingecko.com/en/coins/naoris	yes
+TOWNS	TOWNS/USDT	Crypto	Towns	https://www.coingecko.com/en/coins/towns	yes
+PROVE	PROVE/USDT	Crypto	Succinct	https://www.coingecko.com/en/coins/succinct	yes
+IN	IN/USDT	Crypto	Incoin		no
+CARV	CARV/USDT	Crypto	CARV	https://www.coingecko.com/en/coins/carv	yes
+RPL	RPL/USDT	Crypto	Planet Labs Tokenized Stock (Reality)	https://www.coingecko.com/en/coins/rocket-pool	yes
+CRO	CRO/USDT	Crypto	Cronos zkEVM Bridged CRO (Cronos zkEVM)	https://www.coingecko.com/en/coins/crypto-com-chain	yes
+XNY	XNY/USDT	Crypto	Codatta	https://www.coingecko.com/en/coins/codatta	yes
+LUMIA	LUMIA/USDT	Crypto	Lumia	https://www.coingecko.com/en/coins/lumia	yes
+AIO	AIO/USDT	Crypto	All In One Wallet		no
+SAPIEN	SAPIEN/USDT	Crypto	Sapien	https://www.coingecko.com/en/coins/sapien-2	yes
+OKB	OKB/USDT	Crypto	OKB	https://www.coingecko.com/en/coins/okb	yes
+WLFI	WLFI/USDT	Crypto	Stupid World Liberty Financial		no
+XPL	XPL/USDT	Crypto	Plasma		no
+BTC	BTC/USD	Crypto	Bitcoin	https://www.coingecko.com/en/coins/bitcoin	yes
+BTR	BTR/USDT	Crypto	Bitlayer		no
+MITO	MITO/USDT	Crypto	Mitosis	https://www.coingecko.com/en/coins/mitosis	yes
+BAS	BAS/USDT	Crypto	BNB Attestation Service	https://www.coingecko.com/en/coins/bas	yes
+AIOT	AIOT/USDT	Crypto	OKZOO	https://www.coingecko.com/en/coins/okzoo	yes
+Q	Q/USDT	Crypto	QORA	https://www.coingecko.com/en/coins/quack-ai	yes
+SOMI	SOMI/USDT	Crypto	Somnia	https://www.coingecko.com/en/coins/somnia	yes
+XVS	XVS/USDT	Crypto	Venus	https://www.coingecko.com/en/coins/venus	yes
+ARIA	ARIA/USDT	Crypto	Aria		no
+PTB	PTB/USDT	Crypto	Portal to Bitcoin	https://www.coingecko.com/en/coins/portal-to-bitcoin	yes
+TAKE	TAKE/USDT	Crypto	OVERTAKE	https://www.coingecko.com/en/coins/overtake	yes
+HEMI	HEMI/USDT	Crypto	Hemi	https://www.coingecko.com/en/coins/hemi	yes
+OPEN	OPEN/USDT	Crypto	OPEN		no
+FLOCK	FLOCK/USDT	Crypto	FLOCK		no
+AVNT	AVNT/USDT	Crypto	Veranta	https://www.coingecko.com/en/coins/avantis	yes
+SKY	SKY/USDT	Crypto	DarkCrypto Share		no
+ETH	ETH/USD	Crypto	Ethereum	https://www.coingecko.com/en/coins/ethereum	yes
+XRP	XRP/USD	Crypto	XRP		no
+SOL	SOL/USD	Crypto	Solana	https://www.coingecko.com/en/coins/solana	yes
+ADA	ADA/USD	Crypto	Cardano		no
+LINEA	LINEA/USDT	Crypto	Linea	https://www.coingecko.com/en/coins/linea	yes
+HOLO	HOLO/USDT	Crypto	holo		no
+XPIN	XPIN/USDT	Crypto	XPIN Network	https://www.coingecko.com/en/coins/xpin-network	yes
+UB	UB/USDT	Crypto	Unibase	https://www.coingecko.com/en/coins/unibase	yes
+ZKC	ZKC/USDT	Crypto	Boundless	https://www.coingecko.com/en/coins/boundless	yes
+TOSHI	TOSHI/USDT	Crypto	First Dog to Buy Crypto		no
+AIA	AIA/USDT	Crypto	DeAgentAI	https://www.coingecko.com/en/coins/aia	yes
+BARD	BARD/USDT	Crypto	Lombard	https://www.coingecko.com/en/coins/lombard-protocol	yes
+ASTER	ASTER/USDT	Crypto	Aster	https://www.coingecko.com/en/coins/aster-2	yes
+0G	0G/USDT	Crypto	0G	https://www.coingecko.com/en/coins/zero-gravity	yes
+TRADOOR	TRADOOR/USDT	Crypto	THE TRADOOR		no
+STBL	STBL/USDT	Crypto	AlgoStable		no
+BLESS	BLESS/USDT	Crypto	Bless	https://www.coingecko.com/en/coins/bless-2	yes
+FLUID	FLUID/USDT	Crypto	Fluid	https://www.coingecko.com/en/coins/instadapp	yes
+COAI	COAI/USDT	Crypto	ChainOpera AI	https://www.coingecko.com/en/coins/chainopera-ai	yes
+MIRA	MIRA/USDT	Crypto	Mira		no
+HANA	HANA/USDT	Crypto	Hana		no
+ORDER	ORDER/USDT	Crypto	ORDER		no
+FF	FF/USDT	Crypto	Falcon Finance	https://www.coingecko.com/en/coins/falcon-finance-ff	yes
+LIGHT	LIGHT/USDT	Crypto	Arcturian AI by Virtuals		no
+AKE	AKE/USDT	Crypto	Akedo	https://www.coingecko.com/en/coins/akedo	yes
+EDEN	EDEN/USDT	Crypto	EDEN		no
+APEX	APEX/USDT	Crypto	Apex AI		no
+XAN	XAN/USDT	Crypto	Anoma	https://www.coingecko.com/en/coins/anoma	yes
+NOM	NOM/USDT	Crypto	Nomad	https://www.coingecko.com/en/coins/nomina	yes
+2Z	2Z/USDT	Crypto	DoubleZero	https://www.coingecko.com/en/coins/doublezero	yes
+TRUTH	TRUTH/USDT	Crypto	Swarm Network		no
+EVAA	EVAA/USDT	Crypto	EVAA Protocol	https://www.coingecko.com/en/coins/evaa-protocol	yes
+LYN	LYN/USDT	Crypto	Everlyn		no
+KGEN	KGEN/USDT	Crypto	KGeN	https://www.coingecko.com/en/coins/kgen	yes
+4	4/USDT	Crypto	4	https://www.coingecko.com/en/coins/4-2	yes
+GIGGLE	GIGGLE/USDT	Crypto	Giggle Fund	https://www.coingecko.com/en/coins/giggle-fund	yes
+EUL	EUL/USDT	Crypto	Euler	https://www.coingecko.com/en/coins/euler	yes
+ENSO	ENSO/USDT	Crypto	Enso	https://www.coingecko.com/en/coins/enso	yes
+YB	YB/USDT	Crypto	Yield Basis	https://www.coingecko.com/en/coins/yield-basis	yes
+RECALL	RECALL/USDT	Crypto	Recall	https://www.coingecko.com/en/coins/recall	yes
+CLO	CLO/USDT	Crypto	Cloudland	https://www.coingecko.com/en/coins/yei-finance	yes
+ZBT	ZBT/USDT	Crypto	ZEROBASE	https://www.coingecko.com/en/coins/zerobase	yes
+RIVER	RIVER/USDT	Crypto	River	https://www.coingecko.com/en/coins/river	yes
+LAB	LAB/USDT	Crypto	LAB	https://www.coingecko.com/en/coins/lab	yes
+BLUAI	BLUAI/USDT	Crypto	Bluwhale	https://www.coingecko.com/en/coins/bluwhale	yes
+TURTLE	TURTLE/USDT	Crypto	Against All Odds		no
+MET	MET/USDT	Crypto	Meteora		no
+APR	APR/USDT	Crypto	Capricorn	https://www.coingecko.com/en/coins/apriori	yes
+ON	ON/USDT	Crypto	ON Semiconductor Corporation • Robinhood Token		no
+AT	AT/USDT	Crypto	Apro		no
+KITE	KITE/USDT	Crypto	Kite		no
+MMT	MMT/USDT	Crypto	Momentum	https://www.coingecko.com/en/coins/momentum-3	yes
+TRUST	TRUST/USDT	Crypto	Intuition		no
+UAI	UAI/USDT	Crypto	AIMERICA		no
+JCT	JCT/USDT	Crypto	Jade City Token		no
+CC	CC/USDT	Crypto	Canton	https://www.coingecko.com/en/coins/canton-network	yes
+FOLKS	FOLKS/USDT	Crypto	FOLKS	https://www.coingecko.com/en/coins/folks	yes
+ALLO	ALLO/USDT	Crypto	Allora	https://www.coingecko.com/en/coins/allora	yes
+CLANKER	CLANKER/USDT	Crypto	Clanker		no
+BEAT	BEAT/USDT	Crypto	Audiera		no
+PIEVERSE	PIEVERSE/USDT	Crypto	Pieverse	https://www.coingecko.com/en/coins/pieverse	yes
+MON	MON/USDT	Crypto	Monad	https://www.coingecko.com/en/coins/monad	yes
+IRYS	IRYS/USDT	Crypto	Irys	https://www.coingecko.com/en/coins/irys	yes
+LTC	LTC/USD	Crypto	Litecoin		no
+BNB	BNB/USD	Crypto	BNB	https://www.coingecko.com/en/coins/binancecoin	yes
+DOGE	DOGE/USD	Crypto	Dogecoin		no
+LINK	LINK/USD	Crypto	Chainlink	https://www.coingecko.com/en/coins/chainlink	yes
+AVAX	AVAX/USD	Crypto	Avalanche		no
+POWER	POWER/USDT	Crypto	Powerloom		no
+STABLE	STABLE/USDT	Crypto	​​Stable		no
+DOT	DOT/USD	Crypto	Polkadot		no
+BCH	BCH/USD	Crypto	Bitcoin Cash		no
+XLM	XLM/USD	Crypto	Stellar	https://www.coingecko.com/en/coins/stellar	yes
+SUI	SUI/USD	Crypto	Sui	https://www.coingecko.com/en/coins/sui	yes
+AAVE	AAVE/USD	Crypto	Aave	https://www.coingecko.com/en/coins/aave	yes
+WET	WET/USDT	Crypto	HumidiFi	https://www.coingecko.com/en/coins/humidifi	yes
+BTC	BTC/USDC	Crypto	Bitcoin	https://www.coingecko.com/en/coins/bitcoin	yes
+ETH	ETH/USDC	Crypto	Ethereum	https://www.coingecko.com/en/coins/ethereum	yes
+SOL	SOL/USDC	Crypto	Solana	https://www.coingecko.com/en/coins/solana	yes
+XRP	XRP/USDC	Crypto	XRP		no
+BNB	BNB/USDC	Crypto	BNB	https://www.coingecko.com/en/coins/binancecoin	yes
+DOGE	DOGE/USDC	Crypto	Dogecoin		no
+SUI	SUI/USDC	Crypto	Sui	https://www.coingecko.com/en/coins/sui	yes
+BCH	BCH/USDC	Crypto	Bitcoin Cash		no
+ADA	ADA/USDC	Crypto	Cardano		no
+ENA	ENA/USDC	Crypto	Ethena	https://www.coingecko.com/en/coins/ethena	yes
+NIGHT	NIGHT/USDT	Crypto	Midnight		no
+CYS	CYS/USDT	Crypto	Cysic	https://www.coingecko.com/en/coins/cysic	yes
+LINK	LINK/USDC	Crypto	Chainlink	https://www.coingecko.com/en/coins/chainlink	yes
+AVAX	AVAX/USDC	Crypto	Avalanche		no
+FIL	FIL/USDC	Crypto	Filecoin		no
+LTC	LTC/USDC	Crypto	Litecoin		no
+ARB	ARB/USDC	Crypto	Arbitrum	https://www.coingecko.com/en/coins/arbitrum	yes
+UNI	UNI/USDC	Crypto	Uniswap	https://www.coingecko.com/en/coins/uniswap	yes
+AAVE	AAVE/USDC	Crypto	Aave	https://www.coingecko.com/en/coins/aave	yes
+NEAR	NEAR/USDC	Crypto	NEAR Protocol	https://www.coingecko.com/en/coins/near	yes
+HBAR	HBAR/USDC	Crypto	Hedera	https://www.coingecko.com/en/coins/hedera-hashgraph	yes
+RAVE	RAVE/USDT	Crypto	RaveDAO	https://www.coingecko.com/en/coins/ravedao	yes
+SHIB	SHIB/USDC	Crypto	Binance-Peg SHIB		no
+US	US/USDT	Crypto	Talus		no
+ZKP	ZKP/USDT	Crypto	Panther Protocol		no
+GUA	GUA/USDT	Crypto	GUA	https://www.coingecko.com/en/coins/superfortune	yes
+LIGHTER	LIGHTER/USDT	Crypto	LIGHTER		no
+COLLECT	COLLECT/USDT	Crypto	CoinCollect		no
+MAGMA	MAGMA/USDT	Crypto	Magma Finance	https://www.coingecko.com/en/coins/magma-finance	yes
+BREV	BREV/USDT	Crypto	Brevis	https://www.coingecko.com/en/coins/brevis	yes
+XAG	XAG/USDT	TradFi	Silver	https://www.coingecko.com/en/commodities/silver	no
+FOGO	FOGO/USDT	Crypto	Fogo	https://www.coingecko.com/en/coins/fogo	yes
+WLD	WLD/USDC	Crypto	Worldcoin	https://www.coingecko.com/en/coins/worldcoin-wld	yes
+WIF	WIF/USDC	Crypto	dogwifhat		no
+WLFI	WLFI/USDC	Crypto	Stupid World Liberty Financial		no
+PEPE	PEPE/USDC	Crypto	BABY PEPE		no
+BONK	BONK/USDC	Crypto	Based Bonk		no
+SPORTFUN	SPORTFUN/USDT	Crypto	SPORTFUN		no
+ACU	ACU/USDT	Crypto	Acurast	https://www.coingecko.com/en/coins/acurast	yes
+SENT	SENT/USDT	Crypto	Sentient		no
+SKR	SKR/USDT	Crypto	Saakuru		no
+ELSA	ELSA/USDT	Crypto	Elsa	https://www.coingecko.com/en/coins/elsa	yes
+SPACE	SPACE/USDT	Crypto	MicrovisionChain		no
+FIGHT	FIGHT/USDT	Crypto	FIGHT		no
+BIRB	BIRB/USDT	Crypto	Birb		no
+GWEI	GWEI/USDT	Crypto	ETHGas	https://www.coingecko.com/en/coins/ethgas-2	yes
+XPT	XPT/USDT	Crypto	XPT	https://www.coingecko.com/en/coins/xpt	yes
+INX	INX/USDT	Crypto	Infinex		no
+XPD	XPD/USDT	Crypto	100xPad		no
+ZAMA	ZAMA/USDT	Crypto	Zama	https://www.coingecko.com/en/coins/zama	yes
+TRIA	TRIA/USDT	Crypto	TRIA	https://www.coingecko.com/en/coins/tria	yes
+XAU	XAU/USDT	Crypto	Gold	https://www.coingecko.com/en/commodities/gold	no
+ESP	ESP/USDT	Crypto	Espresso		no
+AZTEC	AZTEC/USDT	Crypto	Aztec	https://www.coingecko.com/en/coins/aztec	yes
+MEGA	MEGA/USDT	Crypto	Make ETH Great Again		no
+OPN	OPN/USDT	Crypto	OPEN Ticketing Ecosystem		no
+ROBO	ROBO/USDT	Crypto	ROBO		no
+KAT	KAT/USDT	Crypto	Karat		no
+MANTRA	MANTRA/USDT	Crypto	MANTRA	https://www.coingecko.com/en/coins/mantra	yes
+COPPER	COPPER/USDT	Crypto	Copper Inu	https://www.coingecko.com/en/coins/copper-inu	yes
+TSLA	TSLA/USDT	Crypto	Tesla Inc.		no
+CRCL	CRCL/USDT	Crypto	Circle Internet Group		no
+MSTR	MSTR/USDT	Crypto	Strategy (ex-MicroStrategy)		no
+INTC	INTC/USDT	Crypto	Intel Corp.	https://finance.yahoo.com/quote/INTC/	no
+AMZN	AMZN/USDT	Crypto	Amazon.com Inc.		no
+CFG	CFG/USDT	Crypto	Centrifuge [OLD]		no
+HOOD	HOOD/USDT	Crypto	Robinhood Markets		no
+COIN	COIN/USDT	Crypto	Coinbase Global		no
+AAPL	AAPL/USDT	Crypto	Apple Inc.		no
+NVDA	NVDA/USDT	Crypto	NVIDIA Corp.		no
+QQQ	QQQ/USDT	Crypto	Invesco QQQ • Robinhood Token		no
+SPY	SPY/USDT	Crypto	Smarty Pay		no
+EWJ	EWJ/USDT	TradFi	iShares MSCI Japan ETF	https://finance.yahoo.com/quote/EWJ/	no
+EWY	EWY/USDT	Crypto	iShares MSCI South Korea fund • Robinhood Token	https://www.coingecko.com/en/coins/ishares-msci-south-korea-fund-robinhood-tokenized-stock	yes
+CL	CL/USDT	TradFi	WTI Crude Oil	https://finance.yahoo.com/quote/CL%3DF/	no
+PAYP	PAYP/USDT	TradFi	PayPal-linked listing ?	https://finance.yahoo.com/quote/PAYP/	no
+PLTR	PLTR/USDT	Crypto	Palantir Technologies		no
+BSB	BSB/USDT	Crypto	Based Street Bets		no
+GOOGL	GOOGL/USDT	Crypto	Alphabet Inc.		no
+META	META/USDT	Crypto	Meta Platforms		no
+AMD	AMD/USDT	Crypto	Advanced Micro Devices		no
+SNDK	SNDK/USDT	TradFi	SanDisk Corp.	https://finance.yahoo.com/quote/SNDK/	no
+MSFT	MSFT/USDT	Crypto	Microsoft Corp.		no
+NFLX	NFLX/USDT	Crypto	Netflix Inc.		no
+BASED	BASED/USDT	Crypto	BASED		no
+MU	MU/USDT	Crypto	Micron Technology (Backpack Securities)	https://www.coingecko.com/en/coins/micron-technology-backpack-securities	yes
+TSM	TSM/USDT	Crypto	Taiwan Semiconductor (TSMC)		no
+ORCL	ORCL/USDT	Crypto	Oracle		no
+BZ	BZ/USDT	TradFi	Brent Crude Oil	https://finance.yahoo.com/quote/BZ%3DF/	no
+NATGAS	NATGAS/USDT	TradFi	Natural Gas	https://finance.yahoo.com/quote/NG%3DF/	no
+PRL	PRL/USDT	Crypto	Parallel Governance		no
+UP	UP/USDT	Crypto	DoubleUp		no
+GENIUS	GENIUS/USDT	Crypto	Genius		no
+FRAX	FRAX/USDT	Crypto	Legacy Frax Dollar		no
+BABA	BABA/USDT	Crypto	Alibaba Group Holding (Backpack Securities)		no
+AVGO	AVGO/USDT	Crypto	Broadcom Inc.		no
+CHIP	CHIP/USDT	Crypto	Algo-Casino Chips		no
+OPG	OPG/USDT	Crypto	OpenGradient	https://www.coingecko.com/en/coins/opengradient	yes
+BLEND	BLEND/USDT	Crypto	Fluent	https://www.coingecko.com/en/coins/fluent-network	yes
+AIGENSYN	AIGENSYN/USDT	Crypto	AIGENSYN		no
+USAR	USAR/USDT	Crypto	USA Rare Earth • Robinhood Token	https://www.coingecko.com/en/coins/usa-rare-earth-robinhood-tokenized-stock	yes
+QCOM	QCOM/USDT	Crypto	Qualcomm Inc.	https://www.coingecko.com/en/coins/qualcomm-robinhood-tokenized-stock	yes
+BILL	BILL/USDT	Crypto	Billions Network		no
+GAMESTOP	GAMESTOP/USDT	TradFi	GameStop Corp.	https://finance.yahoo.com/quote/GME/	no
+LITE	LITE/USDT	Crypto	Arclite		no
+ARM	ARM/USDT	Crypto	Arm Holdings (Dinari Tokenized Stock)		no
+COST	COST/USDT	Crypto	Cost Hot Dog		no
+SHLD	SHLD/USDT	TradFi	Global X Defense Tech ETF	https://finance.yahoo.com/quote/SHLD/	no
+PHAROS	PHAROS/USDT	TradFi	Pharos	https://finance.yahoo.com/quote/PHAROS/	no
+EDGEX	EDGEX/USDT	TradFi	edgeX	https://finance.yahoo.com/quote/EDGEX/	no
+MRVL	MRVL/USDT	Crypto	Marvell Technology (Backpack Securities)		no
+SOXL	SOXL/USDT	Crypto	Direxion Daily Semiconductor Bull 3X ETF (Backpack Securities)	https://www.direxion.com/product/daily-semiconductor-bull-bear-3x-etfs	no
+CRWV	CRWV/USDT	Crypto	CoreWeave • Robinhood Token	https://www.coingecko.com/en/coins/coreweave-robinhood-tokenized-stock	yes
+WMT	WMT/USDT	Crypto	Walmart (Dinari Tokenized Stock)	https://www.coingecko.com/en/coins/walmart-dinari-tokenized-stock	yes
+BRKB	BRKB/USDT	TradFi	Berkshire Hathaway	https://finance.yahoo.com/quote/BRK-B/	no
+JPM	JPM/USDT	Crypto	JPMorgan Chase (Dinari Tokenized Stock)	https://www.coingecko.com/en/coins/jpmorgan-chase-dinari-tokenized-stock	yes
+V	V/USDT	Crypto	Vault		no
+CBRS	CBRS/USDT	Crypto	Cerebras Systems • Robinhood Token	https://www.coingecko.com/en/coins/cerebras-systems-robinhood-tokenized-stock	yes
+RKLB	RKLB/USDT	Crypto	Rocket Lab		no
+DRAM	DRAM/USDT	Crypto	Roundhill Memory ETF (Backpack Securities)	https://www.coingecko.com/en/coins/roundhill-memory-etf-backpack-securities	yes
+FLNC	FLNC/USDT	Crypto	Fluence Energy • Robinhood Token	https://www.coingecko.com/en/coins/fluence-energy-robinhood-tokenized-stock	yes
+SPCX	SPCX/USDT	Crypto	Space Exploration Technologies (Dinari Tokenized Stock)		no
+OPENAI	OPENAI/USDT	Crypto	OpenAI (pre-IPO)		no
+NBIS	NBIS/USDT	Crypto	Nebius Group		no
+WDC	WDC/USDT	Crypto	Western Digital (Backpack Securities)		no
+BE	BE/USDT	Crypto	Bloom Energy • Robinhood Token		no
+COHR	COHR/USDT	Crypto	Coherent (Backpack Securities)		no
+CTR	CTR/USDT	Crypto	Citrea		no
+QNTX	QNTX/USDT	TradFi	Quantinuum	https://www.coingecko.com/en/stocks/quantinuum	no
+SLX	SLX/USDT	Crypto	Slimex		no
+LLY	LLY/USDT	Crypto	Eli Lilly and Company (Backpack Securities)		no
+NVO	NVO/USDT	Crypto	Novo Nordisk (Dinari Tokenized Stock)	https://www.coingecko.com/en/coins/novo-nordisk-dinari-tokenized-stock	yes
+BBX	BBX/USDT	TradFi	BlackBerry	https://finance.yahoo.com/quote/BB/	no
+NOK	NOK/USDT	TradFi	Nokia	https://finance.yahoo.com/quote/NOK/	no
+ANTHROPIC	ANTHROPIC/USDT	Crypto	Anthropic (pre-IPO)	https://www.coingecko.com/en/coins/anthropic-prestocks-2	yes
+HYUNDAI	HYUNDAI/USDT	TradFi	Hyundai Motor	https://finance.yahoo.com/quote/005380.KS/	no
+SAMSUNG	SAMSUNG/USDT	TradFi	Samsung Electronics	https://finance.yahoo.com/quote/005930.KS/	no
+SKHYNIX	SKHYNIX/USDT	TradFi	SK Hynix	https://www.coingecko.com/en/stocks/sk-hynix-inc	no
+ASTS	ASTS/USDT	Crypto	AST SpaceMobile • Robinhood Token	https://www.coingecko.com/en/coins/ast-spacemobile-robinhood-tokenized-stock	yes
+EWT	EWT/USDT	Crypto	Energy Web Token		no
+DELL	DELL/USDT	Crypto	Dell • Robinhood Token		no
+IBM	IBM/USDT	Crypto	International Business Machines (Backpack Securities)		no
+NOW	NOW/USDT	Crypto	ChangeNOW	https://www.coingecko.com/en/coins/changenow	yes
+CRM	CRM/USDT	Crypto	CARTIUM		no
+IREN	IREN/USDT	Crypto	IREN (Dinari Tokenized Stock)		no
+ONDS	ONDS/USDT	TradFi	Ondas	https://finance.yahoo.com/quote/ONDS/	no
+BTW	BTW/USDT	Crypto	Banana Tape Wall		no
+ZEST	ZEST/USDT	Crypto	Zest Protocol	https://www.coingecko.com/en/coins/zest-protocol	yes
+AMAT	AMAT/USDT	Crypto	Applied Materials	https://www.coingecko.com/en/coins/applied-materials-robinhood-tokenized-stock	yes
+BX	BX/USDT	TradFi	Blackstone	https://finance.yahoo.com/quote/BX/	no
+HPE	HPE/USDT	Crypto	Hewlett Packard Enterprise Company • Robinhood Token	https://www.coingecko.com/en/coins/hewlett-packard-enterprise-company-robinhood-token	yes
+AXTI	AXTI/USDT	Crypto	AXT Inc • Robinhood Token	https://www.coingecko.com/en/coins/axt-inc-robinhood-token	yes
+IWM	IWM/USDT	Crypto	iShares Russell 2000 ETF (Dinari Tokenized ETF)	https://www.coingecko.com/en/coins/ishares-russell-2000-etf-dinari-tokenized-etf	yes
+AAOI	AAOI/USDT	Crypto	Applied Optoelectronics • Robinhood Token	https://www.coingecko.com/en/coins/applied-optoelectronics-robinhood-tokenized-stock	yes
+CRDO	CRDO/USDT	Crypto	Credo Technology Group Holding Ltd Ordinary Shares • Robinhood Token	https://www.coingecko.com/en/coins/credo-technology-group-holding-ltd-ordinary-shares-robinhood-token	yes
+EBAY	EBAY/USDT	TradFi	eBay	https://finance.yahoo.com/quote/EBAY/	no
+URNM	URNM/USDT	TradFi	Sprott Uranium Miners ETF	https://finance.yahoo.com/quote/URNM/	no
+HIMS	HIMS/USDT	Crypto	Hims & Hers Health (Backpack Securities)		no
+DKNG	DKNG/USDT	Crypto	DraftKings (Backpack Securities)	https://www.coingecko.com/en/coins/draftkings-backpack-securities	yes
+RIVN	RIVN/USDT	Crypto	Rivian Automotive (Backpack Securities)		no
+ZM	ZM/USDT	Crypto	Zoom • Robinhood Token		no
+EWZ	EWZ/USDT	TradFi	iShares MSCI Brazil ETF	https://finance.yahoo.com/quote/EWZ/	no
+XLE	XLE/USDT	TradFi	Energy Select Sector SPDR ETF	https://finance.yahoo.com/quote/XLE/	no
+BNLIFE	BNLIFE/USDT	TradFi	BINANCELIFE	https://www.coinex.com/en/price/binancelife	no
+ADBE	ADBE/USDT	Crypto	Adobe Inc.		no
+BMNR	BMNR/USDT	Crypto	Bitmine Immersion Technologies (Dinari Tokenized Stock)	https://www.coingecko.com/en/coins/bitmine-immersion-technologies-dinari-tokenized-stock	yes
+UVXY	UVXY/USDT	TradFi	ProShares Ultra VIX ETF	https://www.coingecko.com/en/etfs/proshares-ultra-vix-short-term-futures-etf	no
+ASML	ASML/USDT	Crypto	ASML Holding (Dinari Tokenized Stock)		no
+GLW	GLW/USDT	Crypto	Corning • Robinhood Token	https://www.coingecko.com/en/coins/corning-robinhood-tokenized-stock	yes
+STXX	STXX/USDT	TradFi	Seagate	https://finance.yahoo.com/quote/STX/	no
+CSCO	CSCO/USDT	Crypto	Cisco Systems		no
+DIS	DIS/USDT	Crypto	Walt Disney Co.	https://www.coingecko.com/en/coins/distribute-ai	yes
+HD	HD/USDT	Crypto	Hermes Desktop		no
+UBER	UBER/USDT	Crypto	Uber Technologies (Dinari Tokenized Stock)	https://www.coingecko.com/en/coins/uber-technologies-dinari-tokenized-stock	yes
+RE	RE/USDT	Crypto	Eni SpA Tokenized Stock (Reality)	https://www.coingecko.com/en/coins/re	yes
+O	O/USDT	Crypto	Childhoods End		no
+SMCI	SMCI/USDT	Crypto	Super Micro Computer	https://www.coingecko.com/en/coins/super-micro-computer-robinhood-tokenized-stock	yes
+SONY	SONY/USDT	Crypto	Sony Group (Dinari Tokenized Stock)	https://www.coingecko.com/en/coins/sony-group-dinari-tokenized-stock	yes
+CIEN	CIEN/USDT	Crypto	Ciena Corporation • Robinhood Token	https://www.coingecko.com/en/coins/ciena-corporation-robinhood-token	yes
+ARX	ARX/USDT	Crypto	AlphaRadarX		no
+CAP	CAP/USDT	Crypto	Based Brians		no
+SQQQ	SQQQ/USDT	Crypto	ProShares UltraPro Short QQQ (Dinari Tokenized ETF)	https://www.coingecko.com/en/coins/proshares-ultrapro-short-qqq-dinari-tokenized-etf	yes
+TQQQ	TQQQ/USDT	Crypto	ProShares UltraPro QQQ (Dinari Tokenized ETF)	https://www.coingecko.com/en/coins/proshares-ultrapro-qqq-dinari-tokenized-etf	yes
+GRAM	GRAM/USDT	Crypto	Blockgram		no
+CATERPILLAR	CATERPILLAR/USDT	Crypto	CATerpillar	https://www.coingecko.com/en/coins/caterpillar-2	yes
+STRC	STRC/USDT	Crypto	Strategy Stretch Preferred (Dinari Tokenized Stock)		no
+TTWO	TTWO/USDT	Crypto	Take-Two Interactive Software (Backpack Securities)		no
+TXN	TXN/USDT	TradFi	Texas Instruments	https://finance.yahoo.com/quote/TXN/	no
+DATAIP	DATAIP/USDT	TradFi	Data Network	https://finance.yahoo.com/quote/DATAIP/	no
+BOT	BOT/USDT	Crypto	BOT		no
+FWDI	FWDI/USDT	Crypto	Forward Industries, Inc.		no
+SKHY	SKHY/USDT	Crypto	SK Hynix (Backpack Securities)	https://finance.yahoo.com/quote/SKHY/	no
+BNC	BNC/USDT	Crypto	Bifrost		no
+WEN	WEN/USDT	Crypto	The Wendy's Company (Backpack Securities)		no
+GEV	GEV/USDT	Crypto	GE Vernova Inc. • Robinhood Token	https://www.coingecko.com/en/coins/ge-vernova-inc-robinhood-token	yes
+VRT	VRT/USDT	Crypto	Venus Reward		no
+APP	APP/USDT	Crypto	Applovin Corporation • Robinhood Token		no
+SNOW	SNOW/USDT	Crypto	Snowflake (Dinari Tokenized Stock)		no
+MUU	MUU/USDT	TradFi	MU Bull 2X ETF	https://www.direxion.com/product/daily-mu-bull-and-bear-leveraged-single-stock-etfs	no
+SOXS	SOXS/USDT	Crypto	Direxion Daily Semiconductor Bear 3X ETF (Backpack Securities)	https://www.direxion.com/product/daily-semiconductor-bull-bear-3x-etfs	no
+TZA	TZA/USDT	TradFi	Small Cap Bear 3X ETF	https://finance.yahoo.com/quote/TZA/	no
+ZHIPU	ZHIPU/USDT	TradFi	Knowledge Atlas Technology	https://finance.yahoo.com/quote/2513.HK/	no
+MINIMAX	MINIMAX/USDT	TradFi	MiniMax	https://finance.yahoo.com/quote/0100.HK/	no
+PANW	PANW/USDT	Crypto	Palo Alto Networks, Inc. • Robinhood Token	https://www.coingecko.com/en/coins/palo-alto-networks-inc-robinhood-token	yes
+SHAZ	SHAZ/USDT	TradFi	SharonAI	https://finance.yahoo.com/quote/SHAZ/	no
+SOFI	SOFI/USDT	Crypto	SoFi Technologies • Robinhood Token	https://www.coingecko.com/en/coins/sofi-technologies-robinhood-tokenized-stock	yes
+PENGSTOCK	PENGSTOCK/USDT	TradFi	Penguin Solutions	https://finance.yahoo.com/quote/PENG/	no
+TENCENT	TENCENT/USDT	TradFi	Tencent	https://finance.yahoo.com/quote/0700.HK/	no
+BSP	BSP/USDT	Crypto	Bespincoin	https://www.coingecko.com/en/coins/bespincoin	yes
+INTW	INTW/USDT	TradFi	GraniteShares 2x Long INTC Daily ETF	https://graniteshares.com/etfs/intw/	no
+KORU	KORU/USDT	TradFi	Direxion Daily MSCI South Korea Bull 3X ETF	https://www.direxion.com/product/daily-msci-south-korea-bull-3x-etf	no
+SNXX	SNXX/USDT	Crypto	TD Synnex xStock	https://www.coingecko.com/en/coins/td-synnex-xstock	yes
+POPMART	POPMART/USDT	TradFi	Pop Mart	https://finance.yahoo.com/quote/9992.HK/	no
+BITO	BITO/USDT	Crypto	BITO Coin	https://www.coingecko.com/en/coins/bito-coin	yes
+TBT	TBT/USDT	TradFi	ProShares UltraShort Lehman 20 Year Treasury ETF	https://finance.yahoo.com/quote/TBT/	no
+TMF	TMF/USDT	Crypto	Direxion Daily 20+ Year Treasury Bull 3X ETF (Dinari Tokenized ETF)	https://www.coingecko.com/en/coins/direxion-daily-20-year-treasury-bull-3x-etf-dinari-tokenized-etf	yes
+AEON	AEON/USDT	Crypto	aeon		no
+ALAB	ALAB/USDT	Crypto	Astera Labs	https://www.coingecko.com/en/coins/astera-labs-inc-robinhood-token	yes
+FLEX	FLEX/USDT	Crypto	FLEX		no
+KLAC	KLAC/USDT	Crypto	KLA Corporation • Robinhood Token	https://www.coingecko.com/en/coins/kla-corporation-robinhood-token	yes
+PYPL	PYPL/USDT	Crypto	Paypal Holdings (Dinari Tokenized Stock)	https://www.coingecko.com/en/coins/paypal-holdings-dinari-tokenized-stock	yes
+GS	GS/USDT	Crypto	GammaSwap	https://www.coingecko.com/en/coins/gammaswap	yes
+SMH	SMH/USDT	Crypto	VanEck Semiconductor ETF (Dinari Tokenized ETF)		no
+KSTR	KSTR/USDT	TradFi	Korea strategic ETF ?	https://kraneshares.com/etf/kstr/	no
+MVLL	MVLL/USDT	TradFi	GraniteShares 2x Long MRVL Daily ETF	https://graniteshares.com/etfs/mvll/	no
+XBI	XBI/USDT	TradFi	State Street SPDR S&P Biotech ETF	https://finance.yahoo.com/quote/XBI/	no
+LRCX	LRCX/USDT	Crypto	Lam Research Corporation • Robinhood Token	https://www.coingecko.com/en/coins/lam-research-corporation-robinhood-token	yes
+TER	TER/USDT	Crypto	TER		no
+GRVT	GRVT/USDT	Crypto	GRVT Token	https://www.coingecko.com/en/coins/grvt	yes
+GIGADEV	GIGADEV/USDT	TradFi	Gigadevice Semiconductor	https://finance.yahoo.com/quote/603386.SS/	no
+KO	KO/USDT	Crypto	Coca-Cola (Dinari Tokenized Stock)		no
+RDDT	RDDT/USDT	Crypto	Reddit (Backpack Securities)		no
+SHOP	SHOP/USDT	Crypto	Shopify (Backpack Securities)		no
+DOS	DOS/USDT	Crypto	DAPPOS		no
+KUAISHOU	KUAISHOU/USDT	TradFi	KUAISHOU	https://finance.yahoo.com/quote/1024.HK/	no
+MEITUAN	MEITUAN/USDT	TradFi	MEITUAN	https://finance.yahoo.com/quote/3690.HK/	no
+CSOPHLS2L	CSOPHLS2L/USDT	TradFi	CSOP SK Hynix Daily Max (2x) ETF	https://www.coingecko.com/en/etfs/csop-sk-hynix-daily-max-2x-leveraged-product	no
+CSOPSX2L	CSOPSX2L/USDT	TradFi	CSOP Samsung Daily Max (2x) ETF	https://finance.yahoo.com/quote/7747.HK/	no
+HANMI	HANMI/USDT	TradFi	HANMI Semiconductor	https://finance.yahoo.com/quote/042700.KS/	no
+SAMSUNGEM	SAMSUNGEM/USDT	TradFi	Samsung Electro-Mechanics	https://finance.yahoo.com/quote/009150.KS/	no
+ZHONGJI	ZHONGJI/USDT	TradFi	Zhongji Innolight	https://finance.yahoo.com/quote/300308.SZ/	no
+KODEX200	KODEX200/USDT	TradFi	Samsung KODEX 200 ETF	https://finance.yahoo.com/quote/069500.KS/	no
+NAVER	NAVER/USDT	TradFi	NAVER Corp	https://finance.yahoo.com/quote/035420.KS/	no
+LGE	LGE/USDT	TradFi	LG Electronics	https://finance.yahoo.com/quote/066570.KS/	no
+GDX	GDX/USDT	Crypto	General Dynamics xStock	https://www.coingecko.com/en/coins/general-dynamics-xstock	yes
+NET	NET/USDT	Crypto	Cloudflare, Inc. • Robinhood Token		no
+VST	VST/USDT	Crypto	Vistra Corp. • Robinhood Token		no
+CXMT	CXMT/USDT	TradFi	CXMT Corporation	https://www.coinglass.com/currencies/CXMT	no
+LYTE	LYTE/USDT	TradFi	Roundhill Photonics & Optics ETF	https://www.roundhillinvestments.com/etf/lyte/	no
+XIAOMI	XIAOMI/USDT	TradFi	Xiaomi Corporation	https://finance.yahoo.com/quote/1810.HK/	no
+MOONSHOT	MOONSHOT/USDT	TradFi	Moonshot AI	https://finance.yahoo.com/quote/MOONSHOT/	no
+UNITREE	UNITREE/USDT	TradFi	Unitree Robotics	https://finance.yahoo.com/quote/688836.SS/	no
+MRNA	MRNA/USDT	Crypto	Moderna Inc.		no
+MCD	MCD/USDT	Crypto	McDonald's (Dinari Tokenized Stock)		no
+PEP	PEP/USDT	Crypto	PEPECOIN	https://www.coingecko.com/en/coins/pepecoin-network	yes
+FUTU	FUTU/USDT	Crypto	Futu Holdings • Robinhood Token	https://www.coingecko.com/en/coins/futu-holdings-robinhood-tokenized-stock	yes
+NKE	NKE/USDT	Crypto	NIKE (Backpack Securities)		no
+DJT	DJT/USDT	Crypto	Trump Media & Tech		no
+RAM	RAM/USDT	Crypto	Antero Midstream Corporation Tokenized Stock (Reality)	https://www.coingecko.com/en/coins/ramses	yes
+SKDD	SKDD/USDT	TradFi	GraniteShares 2x Short SK Hynix ETF	https://graniteshares.com/etfs/skdd/	no
+SKUU	SKUU/USDT	TradFi	SK-linked leveraged ?	https://graniteshares.com/sk-hynix-leveraged-etfs/	no
+MARA	MARA/USDT	Crypto	MARA Holdings	https://www.coingecko.com/en/coins/mara-holdings-dinari-tokenized-stock	yes
+MRK	MRK/USDT	Crypto	Merck & Co.	https://www.coingecko.com/en/coins/merck-dinari-tokenized-stock	yes
+NVDL	NVDL/USDT	TradFi	GraniteShares 2x Long NVDA ETF	https://finance.yahoo.com/quote/NVDL/	no
+TSLL	TSLL/USDT	Crypto	Direxion Shares ETF Trust Direxion Daily TSLA Bull 2X ETF (Dinari Tokenized ETF)	https://www.coingecko.com/en/coins/direxion-shares-etf-trust-direxion-daily-tsla-bull-2x-etf-dinari-tokenized-etf	yes
+NIULAI	NIULAI/USDT	TradFi	NIULAI(牛來)	https://www.coingecko.com/en/coins/niu-lai	no
+IONQ	IONQ/USDT	Crypto	IonQ Inc.		no
+TEM	TEM/USDT	Crypto	TEM MARKET		no
+PDD	PDD/USDT	Crypto	PDD Holdings (Dinari Tokenized Stock)	https://www.coingecko.com/en/coins/pdd-holdings-dinari-tokenized-stock	yes
+SHEIN	SHEIN/USDT	TradFi	SHEIN	https://finance.yahoo.com/quote/0625.HK/	no
+MARSCOIN	MARSCOIN/USDT	Crypto	MarsCoin		no
+PONS	PONS/USDT	Crypto	Pons	https://www.coingecko.com/en/coins/pons	yes
+CASHCAT	CASHCAT/USDT	Crypto	Cash Cat	https://www.coingecko.com/en/coins/cash-cat	yes
+CP	CP/USDT	Crypto	CAPTAIN PUMPZILLA	https://www.coingecko.com/en/coins/cluster-protocol	yes
+DDOG	DDOG/USDT	Crypto	Datadog • Robinhood Token	https://www.coingecko.com/en/coins/datadog-robinhood-tokenized-stock	yes
+GTLB	GTLB/USDT	TradFi	GitLab Inc.	https://finance.yahoo.com/quote/GTLB/	no
+MDB	MDB/USDT	Crypto	MongoDB • Robinhood Token	https://www.coingecko.com/en/coins/mongodb-robinhood-tokenized-stock	yes
+ZS	ZS/USDT	Crypto	Zscaler • Robinhood Token	https://www.coingecko.com/en/coins/zscaler-robinhood-tokenized-stock	yes
+TEAM	TEAM/USDT	Crypto	Atlassian Corporation • Robinhood Token		no
+BYD	BYD/USDT	Crypto	Boyd Gaming (Dinari Tokenized Stock)	https://www.coingecko.com/en/coins/boyd-gaming-dinari-tokenized-stock	yes
+GPRO	GPRO/USDT	Crypto	GoPro (Backpack Securities)	https://www.coingecko.com/en/coins/gopro-backpack-securities	yes
+HAJIMI	HAJIMI/USDT	TradFi	HAJIMI	https://finance.yahoo.com/quote/HAJIMI/	no
+DGAI	DGAI/USDT	Crypto	DGrid AI	https://www.coingecko.com/en/coins/dgrid-ai	yes
+CNPY	CNPY/USDT	Crypto	Canopy		no
+4STOCK	4STOCK/USDT	Crypto	4Stock	https://www.coingecko.com/en/coins/4stock	yes
+INFQ	INFQ/USDT	Crypto	Infleqtion, Inc. • Robinhood Token	https://www.coingecko.com/en/coins/infleqtion-inc-robinhood-token	yes
+QBTS	QBTS/USDT	Crypto	D-Wave Quantum (Dinari Tokenized Stock)		no
+PATH	PATH/USDT	Crypto	UiPath Inc.	https://www.coingecko.com/en/coins/uipath-inc-robinhood-token	yes
+AMC	AMC/USDT	Crypto	AI Meta Club		no
+CYPH	CYPH/USDT	Crypto	Cypher		no
+AGPU	AGPU/USDT	TradFi	Axe Compute	https://finance.yahoo.com/quote/AGPU/	no
+ANET	ANET/USDT	Crypto	Arista Networks • Robinhood Token	https://www.coingecko.com/en/coins/arista-networks-robinhood-token	yes
+APLD	APLD/USDT	Crypto	Applied Digital (Dinari Tokenized Stock)		no
+HUT	HUT/USDT	Crypto	Hut 8 (Dinari Tokenized Stock)	https://www.coingecko.com/en/coins/hut-8-dinari-tokenized-stock	yes
+OURA	OURA/USDT	TradFi	Oura	https://finance.yahoo.com/quote/OURA/	no
+CVNA	CVNA/USDT	Crypto	Carvana Co. • Robinhood Token	https://www.coingecko.com/en/coins/carvana-co-robinhood-token	yes
+OKLO	OKLO/USDT	Crypto	Oklo (Dinari Tokenized Stock)		no
+RUM	RUM/USDT	Crypto	Arrland RUM		no
+TWST	TWST/USDT	TradFi	Twist Bioscience	https://finance.yahoo.com/quote/TWST/	no
+XOM	XOM/USDT	Crypto	Exxon Mobil (Dinari Tokenized Stock)		no
+ACN	ACN/USDT	Crypto	AITECH Cloud Network	https://www.coingecko.com/en/coins/solidus-aitech	yes
+BWET	BWET/USDT	TradFi	Breakwave Tanker Shipping ETF	https://finance.yahoo.com/quote/BWET/	no
+CRML	CRML/USDT	TradFi	Critical Metals	https://finance.yahoo.com/quote/CRML/	no
+MP	MP/USDT	Crypto	MerlinSwap		no
+SECZ	SECZ/USDT	Crypto	Securitize	https://www.coingecko.com/en/coins/securitize-corp	yes
+UNH	UNH/USDT	Crypto	UnitedHealth Group Incorporated • Robinhood Token	https://www.coingecko.com/en/coins/unitedhealth-group-incorporated-robinhood-token	yes
+CT	CT/USDT	Crypto	Concrete		no
+AKAM	AKAM/USDT	TradFi	Akamai Technologies	https://finance.yahoo.com/quote/AKAM/	no
+USDEX	USDEX/USDT	TradFi	StablecoinX	https://finance.yahoo.com/quote/USDEX/	no
+VKTX	VKTX/USDT	TradFi	Viking Therapeutics	https://finance.yahoo.com/quote/VKTX/	no
+MSTU	MSTU/USDT	Crypto	T-Rex 2X Long MSTR Daily Target ETF (Dinari Tokenized ETF)	https://www.coingecko.com/en/coins/t-rex-2x-long-mstr-daily-target-etf-dinari-tokenized-etf	yes
+ZCSH	ZCSH/USDT	TradFi	The Zcash ETF	https://etfs.grayscale.com/zcsh	no
+RDW	RDW/USDT	Crypto	Redwire • Robinhood Token	https://www.coingecko.com/en/coins/redwire-robinhood-tokenized-stock	yes
+SNPS	SNPS/USDT	Crypto	Snaps	https://www.coingecko.com/en/coins/snaps	yes
+DNA	DNA/USDT	Crypto	DNA		no
+BTC	BTCUSDT	Crypto	Bitcoin	https://www.coingecko.com/en/coins/bitcoin	yes
+ETH	ETHUSDT	Crypto	Ethereum	https://www.coingecko.com/en/coins/ethereum	yes
+LTC	LTCUSDT	Crypto	Litecoin		no
+BCH	BCHUSDT	Crypto	Bitcoin Cash		no
+ETC	ETCUSDT	Crypto	Ethereum Classic	https://www.coingecko.com/en/coins/ethereum-classic	yes
+LINK	LINKUSDT	Crypto	Chainlink	https://www.coingecko.com/en/coins/chainlink	yes
+YFI	YFIUSDT	Crypto	yearn.finance		no
+UNI	UNIUSDT	Crypto	Uniswap	https://www.coingecko.com/en/coins/uniswap	yes
+BNB	BNBUSDT	Crypto	BNB	https://www.coingecko.com/en/coins/binancecoin	yes
+ZRX	ZRXUSDT	Crypto	0x Protocol	https://www.coingecko.com/en/coins/0x	yes
+SNT	SNTUSDT	Crypto	Status	https://www.coingecko.com/en/coins/status	yes
+TRX	TRXUSDT	Crypto	TRON		no
+XRP	XRPUSDT	Crypto	XRP		no
+ADA	ADAUSDT	Crypto	Cardano		no
+SHIB	SHIBUSDT	Crypto	Binance-Peg SHIB		no
+FIL	FILUSDT	Crypto	Filecoin		no
+DOGE	DOGEUSDT	Crypto	Dogecoin		no
+MANA	MANAUSDT	Crypto	Decentraland		no
+SAND	SANDUSDT	Crypto	The Sandbox		no
+GALA	GALAUSDT	Crypto	GALA	https://www.coingecko.com/en/coins/gala	yes
+ENJ	ENJUSDT	Crypto	Enjin Coin	https://www.coingecko.com/en/coins/enjincoin	yes
+AXS	AXSUSDT	Crypto	Axie Infinity	https://www.coingecko.com/en/coins/axie-infinity	yes
+DOT	DOTUSDT	Crypto	Polkadot		no
+CRV	CRVUSDT	Crypto	Bridged Curve DAO Token (Stargate)		no
+PEOPLE	PEOPLEUSDT	Crypto	ConstitutionDAO		no
+USDC	USDCUSDT	Crypto	Anubis Bridged USDC (Anubis)		no
+MASK	MASKUSDT	Crypto	catwifmask		no
+CHZ	CHZUSDT	Crypto	Chiliz	https://www.coingecko.com/en/coins/chiliz	yes
+SOL	SOLUSDT	Crypto	Solana	https://www.coingecko.com/en/coins/solana	yes
+NMR	NMRUSDT	Crypto	Numeraire	https://www.coingecko.com/en/coins/numeraire	yes
+APE	APEUSDT	Crypto	Ape	https://www.coingecko.com/en/coins/apecoin	yes
+AVAX	AVAXUSDT	Crypto	Avalanche		no
+ATOM	ATOMUSDT	Crypto	Cosmos	https://www.coingecko.com/en/coins/cosmos	yes
+APT	APTUSDT	Crypto	Aptos	https://www.coingecko.com/en/coins/aptos	yes
+WBTC	WBTCUSDT	Crypto	0G Wrapped WBTC (0G)		no
+CRO	CROUSDT	Crypto	Cronos zkEVM Bridged CRO (Cronos zkEVM)	https://www.coingecko.com/en/coins/crypto-com-chain	yes
+NEAR	NEARUSDT	Crypto	NEAR Protocol	https://www.coingecko.com/en/coins/near	yes
+SUSHI	SUSHIUSDT	Crypto	Sushi	https://www.coingecko.com/en/coins/sushi	yes
+SNX	SNXUSDT	Crypto	Synthetix	https://www.coingecko.com/en/coins/havven	yes
+GMT	GMTUSDT	Crypto	GMT	https://www.coingecko.com/en/coins/stepn	yes
+AAVE	AAVEUSDT	Crypto	Aave	https://www.coingecko.com/en/coins/aave	yes
+FLOW	FLOWUSDT	Crypto	Flow		no
+DYDX	DYDXUSDT	Crypto	dYdX		no
+QNT	QNTUSDT	Crypto	Quant	https://www.coingecko.com/en/coins/quant-network	yes
+SLP	SLPUSDT	Crypto	Sivo DeFi		no
+1INCH	1INCHUSDT	Crypto	1INCH	https://www.coingecko.com/en/coins/1inch	yes
+KNC	KNCUSDT	Crypto	Kyber Network Crystal	https://www.coingecko.com/en/coins/kyber-network-crystal	yes
+LUNC	LUNCUSDT	Crypto	Terra Classic (Wormhole)		no
+BAND	BANDUSDT	Crypto	bandforband.fun		no
+IQ	IQUSDT	Crypto	IQ	https://www.coingecko.com/en/coins/everipedia	yes
+SPELL	SPELLUSDT	Crypto	Spell		no
+WIN	WINUSDT	Crypto	WIN		no
+ENS	ENSUSDT	Crypto	Ethereum Name Service	https://www.coingecko.com/en/coins/ethereum-name-service	yes
+JST	JSTUSDT	Crypto	JUST	https://www.coingecko.com/en/coins/just	yes
+EGLD	EGLDUSDT	Crypto	MultiversX	https://www.coingecko.com/en/coins/elrond-erd-2	yes
+BAT	BATUSDT	Crypto	Basic Attention		no
+COMP	COMPUSDT	Crypto	Compound	https://www.coingecko.com/en/coins/compound-governance-token	yes
+BTT	BTTUSDT	Crypto	BitTorrent	https://www.coingecko.com/en/coins/bittorrent	yes
+NFT	NFTUSDT	Crypto	AINFT		no
+CAKE	CAKEUSDT	Crypto	PancakeSwap	https://www.coingecko.com/en/coins/pancakeswap-token	yes
+REEF	REEFUSDT	Crypto	Reef	https://www.coingecko.com/en/coins/reef	yes
+ANKR	ANKRUSDT	Crypto	Ankr Network	https://www.coingecko.com/en/coins/ankr	yes
+XTZ	XTZUSDT	Crypto	Binance-Peg Tezos Token		no
+HOT	HOTUSDT	Crypto	Holo	https://www.coingecko.com/en/coins/holotoken	yes
+GRT	GRTUSDT	Crypto	The Graph	https://www.coingecko.com/en/coins/the-graph	yes
+ONT	ONTUSDT	Crypto	Binance-Peg Ontology	https://www.coingecko.com/en/coins/ontology	yes
+OKB	OKBUSDT	Crypto	OKB	https://www.coingecko.com/en/coins/okb	yes
+IMX	IMXUSDT	Crypto	Immutable	https://www.coingecko.com/en/coins/immutable-x	yes
+NEXO	NEXOUSDT	Crypto	NEXO	https://www.coingecko.com/en/coins/nexo	yes
+WOO	WOOUSDT	Crypto	ウー		no
+LPT	LPTUSDT	Crypto	Livepeer	https://www.coingecko.com/en/coins/livepeer	yes
+CVX	CVXUSDT	Crypto	Chevron Corp (Dinari Tokenized Stock)		no
+AMP	AMPUSDT	Crypto	Amp	https://www.coingecko.com/en/coins/amp-token	yes
+JASMY	JASMYUSDT	Crypto	JasmyCoin	https://www.coingecko.com/en/coins/jasmycoin	yes
+INJ	INJUSDT	Crypto	Injective	https://www.coingecko.com/en/coins/injective-protocol	yes
+FET	FETUSDT	Crypto	Artificial Superintelligence Alliance	https://www.coingecko.com/en/coins/fetch-ai	yes
+RSR	RSRUSDT	Crypto	Reserve Rights	https://www.coingecko.com/en/coins/reserve-rights-token	yes
+RLC	RLCUSDT	Crypto	iExec RLC	https://www.coingecko.com/en/coins/iexec-rlc	yes
+YGG	YGGUSDT	Crypto	Yield Guild Games	https://www.coingecko.com/en/coins/yield-guild-games	yes
+CVC	CVCUSDT	Crypto	Civic	https://www.coingecko.com/en/coins/civic	yes
+CELR	CELRUSDT	Crypto	Celer Network	https://www.coingecko.com/en/coins/celer-network	yes
+API3	API3USDT	Crypto	Api3	https://www.coingecko.com/en/coins/api3	yes
+PHA	PHAUSDT	Crypto	PHALA	https://www.coingecko.com/en/coins/pha	yes
+METIS	METISUSDT	Crypto	Medusa		no
+COTI	COTIUSDT	Crypto	COTI	https://www.coingecko.com/en/coins/coti	yes
+BLUR	BLURUSDT	Crypto	Blur	https://www.coingecko.com/en/coins/blur	yes
+LDO	LDOUSDT	Crypto	Lido DAO		no
+CFX	CFXUSDT	Crypto	CF Industries xStock		no
+SSV	SSVUSDT	Crypto	SSV Network	https://www.coingecko.com/en/coins/ssv-network	yes
+LQTY	LQTYUSDT	Crypto	Liquity	https://www.coingecko.com/en/coins/liquity	yes
+AUDIO	AUDIOUSDT	Crypto	Audius	https://www.coingecko.com/en/coins/audius	yes
+GLM	GLMUSDT	Crypto	Golem	https://www.coingecko.com/en/coins/golem	yes
+DODO	DODOUSDT	Crypto	DODO		no
+ID	IDUSDT	Crypto	ArcID	https://www.coingecko.com/en/coins/space-id	yes
+ARB	ARBUSDT	Crypto	Arbitrum	https://www.coingecko.com/en/coins/arbitrum	yes
+JOE	JOEUSDT	Crypto	EmotiGuy		no
+PEPE	PEPEUSDT	Crypto	BABY PEPE		no
+VET	VETUSDT	Crypto	VeChain	https://www.coingecko.com/en/coins/vechain	yes
+WLD	WLDUSDT	Crypto	Worldcoin	https://www.coingecko.com/en/coins/worldcoin-wld	yes
+BIGTIME	BIGTIMEUSDT	Crypto	Big Time	https://www.coingecko.com/en/coins/big-time	yes
+XAUT	XAUTUSDT	Crypto	Tether Gold	https://www.coingecko.com/en/coins/tether-gold	yes
+OP	OPUSDT	Crypto	One Path	https://www.coingecko.com/en/coins/optimism	yes
+EDU	EDUUSDT	Crypto	Open Campus	https://www.coingecko.com/en/coins/edu-coin	yes
+OGN	OGNUSDT	Crypto	Origin Token	https://www.coingecko.com/en/coins/origin-protocol	yes
+CTSI	CTSIUSDT	Crypto	Cartesi	https://www.coingecko.com/en/coins/cartesi	yes
+ORDI	ORDIUSDT	Crypto	ORDI	https://www.coingecko.com/en/coins/ordinals	yes
+TRB	TRBUSDT	Crypto	Tellor Tributes	https://www.coingecko.com/en/coins/tellor	yes
+BONK	BONKUSDT	Crypto	Based Bonk		no
+XAI	XAIUSDT	Crypto	SideShift		no
+MEME	MEMEUSDT	Crypto	1 meme can change your life	https://www.coingecko.com/en/coins/memecoin-2	yes
+MAV	MAVUSDT	Crypto	Maverick Protocol	https://www.coingecko.com/en/coins/maverick-protocol	yes
+AI	AIUSDT	Crypto	AI Community	https://www.coingecko.com/en/coins/artificial-inu-3	yes
+SUI	SUIUSDT	Crypto	Sui	https://www.coingecko.com/en/coins/sui	yes
+CYBER	CYBERUSDT	Crypto	CYBER		no
+JTO	JTOUSDT	Crypto	Jito	https://www.coingecko.com/en/coins/jito-governance-token	yes
+ALT	ALTUSDT	Crypto	Alitas		no
+JUP	JUPUSDT	Crypto	Jupiter		no
+PYTH	PYTHUSDT	Crypto	Pyth Network	https://www.coingecko.com/en/coins/pyth-network	yes
+MAGIC	MAGICUSDT	Crypto	Treasure		no
+PENDLE	PENDLEUSDT	Crypto	Pendle	https://www.coingecko.com/en/coins/pendle	yes
+SATS	SATSUSDT	Crypto	EchoStar • Robinhood Token		no
+PIXEL	PIXELUSDT	Crypto	pixelcoin.fun		no
+C98	C98USDT	Crypto	Coin98	https://www.coingecko.com/en/coins/coin98	yes
+ALICE	ALICEUSDT	Crypto	Alice		no
+PORTAL	PORTALUSDT	Crypto	Portal	https://www.coingecko.com/en/coins/portal-2	yes
+SWCH	SWCHUSDT	Crypto	SwissCheese		no
+BRETT	BRETTUSDT	Crypto	Brett		no
+ETHFI	ETHFIUSDT	Crypto	Ether.fi	https://www.coingecko.com/en/coins/ether-fi	yes
+W	WUSDT	Crypto	Victorious	https://www.coingecko.com/en/coins/wormhole	yes
+ENA	ENAUSDT	Crypto	Ethena	https://www.coingecko.com/en/coins/ethena	yes
+AEVO	AEVOUSDT	Crypto	Aevo	https://www.coingecko.com/en/coins/aevo-exchange	yes
+ACH	ACHUSDT	Crypto	Alchemy Pay		no
+FLUX	FLUXUSDT	Crypto	Datamine FLUX		no
+REZ	REZUSDT	Crypto	Renzo	https://www.coingecko.com/en/coins/renzo	yes
+PNG	PNGUSDT	Crypto	Pangolin	https://www.coingecko.com/en/coins/pangolin	yes
+PRIME	PRIMEUSDT	Crypto	Echelon Prime		no
+AIOZ	AIOZUSDT	Crypto	AIOZ Network	https://www.coingecko.com/en/coins/aioz-network	yes
+TLM	TLMUSDT	Crypto	Alien Worlds	https://www.coingecko.com/en/coins/alien-worlds	yes
+WIF	WIFUSDT	Crypto	dogwifhat		no
+AGI	AGIUSDT	Crypto	AGI cult		no
+HNT	HNTUSDT	Crypto	Helium	https://www.coingecko.com/en/coins/helium	yes
+MAVIA	MAVIAUSDT	Crypto	Heroes of Mavia	https://www.coingecko.com/en/coins/heroes-of-mavia	yes
+MEW	MEWUSDT	Crypto	cat in a dogs world	https://www.coingecko.com/en/coins/cat-in-a-dogs-world	yes
+MERL	MERLUSDT	Crypto	Merlin Chain	https://www.coingecko.com/en/coins/merlin-chain	yes
+RARE	RAREUSDT	Crypto	SuperRare		no
+TOKEN	TOKENUSDT	Crypto	OpenTokens		no
+BICO	BICOUSDT	Crypto	Biconomy	https://www.coingecko.com/en/coins/biconomy	yes
+BOME	BOMEUSDT	Crypto	BOOK OF MEME	https://www.coingecko.com/en/coins/book-of-meme	yes
+CPOOL	CPOOLUSDT	Crypto	Clearpool	https://www.coingecko.com/en/coins/clearpool	yes
+ONDO	ONDOUSDT	Crypto	Ondo Finance	https://www.coingecko.com/en/coins/ondo-finance	yes
+DEGEN	DEGENUSDT	Crypto	Degen Arena		no
+POPCAT	POPCATUSDT	Crypto	Popcat	https://www.coingecko.com/en/coins/popcat	yes
+ATH	ATHUSDT	Crypto	Aethir		no
+IO	IOUSDT	Crypto	io.net	https://www.coingecko.com/en/coins/io	yes
+ILV	ILVUSDT	Crypto	Illuvium	https://www.coingecko.com/en/coins/illuvium	yes
+ZK	ZKUSDT	Crypto	ZKsync	https://www.coingecko.com/en/coins/zksync	yes
+FTT	FTTUSDT	Crypto	FTX	https://www.coingecko.com/en/coins/ftx-token	yes
+ZRO	ZROUSDT	Crypto	LayerZero	https://www.coingecko.com/en/coins/layerzero	yes
+LISTA	LISTAUSDT	Crypto	Lista DAO	https://www.coingecko.com/en/coins/lista	yes
+FLOKI	FLOKIUSDT	Crypto	FLOKI	https://www.coingecko.com/en/coins/floki	yes
+MOG	MOGUSDT	Crypto	Based Mog Coin		no
+G	GUSDT	Crypto	Giants Protocol		no
+BANANA	BANANAUSDT	Crypto	ApeSwap		no
+FIGHT	FIGHTUSDT	Crypto	FIGHT		no
+WAXP	WAXPUSDT	Crypto	WAX	https://www.coingecko.com/en/coins/wax	yes
+USDE	USDEUSDT	Crypto	Energi Dollar		no
+RENDER	RENDERUSDT	Crypto	Render Network	https://www.coingecko.com/en/coins/render-token	yes
+L3	L3USDT	Crypto	Layer3	https://www.coingecko.com/en/coins/layer3	yes
+PONKE	PONKEUSDT	Crypto	PONKE	https://www.coingecko.com/en/coins/ponke	yes
+NOT	NOTUSDT	Crypto	Notcoin		no
+BEAM	BEAMUSDT	Crypto	BEAM		no
+SYN	SYNUSDT	Crypto	Synapse	https://www.coingecko.com/en/coins/synapse-2	yes
+NAKA	NAKAUSDT	Crypto	Naka Go		no
+ZKJ	ZKJUSDT	Crypto	Polyhedra Network	https://www.coingecko.com/en/coins/polyhedra-network	yes
+SUN	SUNUSDT	Crypto	Sun Token	https://www.coingecko.com/en/coins/sun-token	yes
+SUNDOG	SUNDOGUSDT	Crypto	Sundog	https://www.coingecko.com/en/coins/sundog	yes
+NPC	NPCUSDT	Crypto	NON PLAYABLE CHARACTER		no
+POL	POLUSDT	Crypto	Polygon Ecosystem Token		no
+DOGS	DOGSUSDT	Crypto	Dogs (TON)	https://www.coingecko.com/en/coins/dogs	no
+CAT	CATUSDT	Crypto	Liquid Cat		no
+CATI	CATIUSDT	Crypto	Catizen	https://www.coingecko.com/en/coins/catizen	yes
+HMSTR	HMSTRUSDT	Crypto	Hamster Kombat	https://www.coingecko.com/en/coins/hamster-kombat	yes
+FIDA	FIDAUSDT	Crypto	Bonfida	https://www.coingecko.com/en/coins/bonfida	yes
+EIGEN	EIGENUSDT	Crypto	EigenCloud (prev. EigenLayer)	https://www.coingecko.com/en/coins/eigenlayer	yes
+NEIRO1	NEIRO1USDT	Crypto	NEIRO1		no
+AERO	AEROUSDT	Crypto	Aerodrome Finance	https://www.coingecko.com/en/coins/aerodrome-finance	yes
+DIA	DIAUSDT	Crypto	DIA	https://www.coingecko.com/en/coins/dia-data	yes
+MOODENG	MOODENGUSDT	Crypto	Moo Deng		no
+TURBO	TURBOUSDT	Crypto	Based Turbo		no
+SUPER	SUPERUSDT	Crypto	Superclaw	https://www.coingecko.com/en/coins/superfarm	yes
+GOAT	GOATUSDT	Crypto	Absolute Goat		no
+NEO	NEOUSDT	Crypto	NEO	https://www.coingecko.com/en/coins/neo	yes
+ETHW	ETHWUSDT	Crypto	EthereumPoW	https://www.coingecko.com/en/coins/ethereum-pow-iou	yes
+GAS	GASUSDT	Crypto	Gas		no
+SAFE	SAFEUSDT	Crypto	Safe		no
+GRASS	GRASSUSDT	Crypto	Grass		no
+PNUT	PNUTUSDT	Crypto	Peanut		no
+ACT	ACTUSDT	Crypto	Acet		no
+CARV	CARVUSDT	Crypto	CARV	https://www.coingecko.com/en/coins/carv	yes
+COW	COWUSDT	Crypto	Cow		no
+CHEEMS	CHEEMSUSDT	Crypto	Cheems		no
+BAN	BANUSDT	Crypto	Banano		no
+SYRUP	SYRUPUSDT	Crypto	Maple Finance	https://www.coingecko.com/en/coins/syrup	yes
+DRIFT	DRIFTUSDT	Crypto	Drift Protocol	https://www.coingecko.com/en/coins/drift-protocol	yes
+FARTCOIN	FARTCOINUSDT	Crypto	Based Fartcoin		no
+VIRTUAL	VIRTUALUSDT	Crypto	Virtuals Protocol	https://www.coingecko.com/en/coins/virtual-protocol	yes
+CHILLGUY	CHILLGUYUSDT	Crypto	Just a chill guy		no
+RAY	RAYUSDT	Crypto	Raydium	https://www.coingecko.com/en/coins/raydium	yes
+MORPHO	MORPHOUSDT	Crypto	Morpho		no
+PUFFER	PUFFERUSDT	Crypto	Puffer	https://www.coingecko.com/en/coins/puffer-finance	yes
+THE	THEUSDT	Crypto	the coin		no
+OL	OLUSDT	Crypto	OPENLOOT		no
+MAJOR	MAJORUSDT	Crypto	MAJOR		no
+SCR	SCRUSDT	Crypto	Score11		no
+ZEREBRO	ZEREBROUSDT	Crypto	Zerebro	https://www.coingecko.com/en/coins/zerebro	yes
+CHEX	CHEXUSDT	Crypto	Chintai	https://www.coingecko.com/en/coins/chex-token	yes
+CLANKER	CLANKERUSDT	Crypto	Clanker		no
+MOVE	MOVEUSDT	Crypto	MoveApp		no
+ME	MEUSDT	Crypto	Literally Me		no
+GIGA	GIGAUSDT	Crypto	GIGA		no
+VELODROME	VELODROMEUSDT	Crypto	VELODROME		no
+MOCA	MOCAUSDT	Crypto	Moca Network		no
+PENGU	PENGUUSDT	Crypto	Pudgy Penguins	https://www.coingecko.com/en/coins/pudgy-penguins	yes
+SPX	SPXUSDT	Crypto	ShopinX		no
+USUAL	USUALUSDT	Crypto	Usual	https://www.coingecko.com/en/coins/usual	yes
+KOMA	KOMAUSDT	Crypto	Koma Inu	https://www.coingecko.com/en/coins/koma-inu	yes
+AIXBT	AIXBTUSDT	Crypto	aixbt	https://www.coingecko.com/en/coins/aixbt	yes
+GRIFFAIN	GRIFFAINUSDT	Crypto	GRIFFAIN	https://www.coingecko.com/en/coins/griffain	yes
+APU	APUUSDT	Crypto	APU		no
+ARC	ARCUSDT	Crypto	AI Rig Complex		no
+KEKIUS	KEKIUSUSDT	Crypto	Kekius Maximus		no
+SWARMS	SWARMSUSDT	Crypto	Swarms	https://www.coingecko.com/en/coins/swarms	yes
+BIO	BIOUSDT	Crypto	Bio Protocol		no
+PAAL	PAALUSDT	Crypto	PAAL AI	https://www.coingecko.com/en/coins/paal-ai	yes
+CGPT	CGPTUSDT	Crypto	ChainGPT	https://www.coingecko.com/en/coins/chaingpt	yes
+ALCH	ALCHUSDT	Crypto	Alchemist AI	https://www.coingecko.com/en/coins/alchemist-ai	yes
+AVAAI	AVAAIUSDT	Crypto	AVAAI		no
+COOKIE	COOKIEUSDT	Crypto	Cookie DAO		no
+SONIC	SONICUSDT	Crypto	Sonic Snipe Bot		no
+S	SUSDT	Crypto	Sonic (ex-Fantom)		no
+SOLV	SOLVUSDT	Crypto	Solv Protocol	https://www.coingecko.com/en/coins/solv-protocol	yes
+TRUMPOFFICIAL	TRUMPOFFICIALUSDT	Crypto	TRUMPOFFICIAL		no
+MELANIA	MELANIAUSDT	Crypto	Melania Meme	https://www.coingecko.com/en/coins/melania-meme	yes
+DEXE	DEXEUSDT	Crypto	DeXe	https://www.coingecko.com/en/coins/dexe	yes
+PIPPIN	PIPPINUSDT	Crypto	pippin	https://www.coingecko.com/en/coins/pippin	yes
+VTHO	VTHOUSDT	Crypto	VeThor	https://www.coingecko.com/en/coins/vethor-token	yes
+ANIME	ANIMEUSDT	Crypto	A New Internet Money Era		no
+VINE	VINEUSDT	Crypto	Do it for the Vine		no
+AVA	AVAUSDT	Crypto	Ansem Vs Alon		no
+PLUME	PLUMEUSDT	Crypto	Plume	https://www.coingecko.com/en/coins/plume	yes
+VVV	VVVUSDT	Crypto	Venice Token	https://www.coingecko.com/en/coins/venice-token	yes
+KMNO	KMNOUSDT	Crypto	Kamino	https://www.coingecko.com/en/coins/kamino	yes
+JELLYJELLY	JELLYJELLYUSDT	Crypto	Jelly-My-Jelly	https://www.coingecko.com/en/coins/jelly-my-jelly	yes
+XCN	XCNUSDT	Crypto	Onyxcoin	https://www.coingecko.com/en/coins/chain-2	yes
+BERA	BERAUSDT	Crypto	Berachain	https://www.coingecko.com/en/coins/berachain-bera	yes
+TEL	TELUSDT	Crypto	Telcoin [OLD]		no
+PRO	PROUSDT	Crypto	Prodigy Bot	https://www.coingecko.com/en/coins/propy	yes
+TOSHI	TOSHIUSDT	Crypto	First Dog to Buy Crypto		no
+TST	TSTUSDT	Crypto	Teleport System Token		no
+ARKM	ARKMUSDT	Crypto	Arkham	https://www.coingecko.com/en/coins/arkham	yes
+B3	B3USDT	Crypto	B3 (Base)	https://www.coingecko.com/en/coins/b3	yes
+PROM	PROMUSDT	Crypto	Prom	https://www.coingecko.com/en/coins/prometeus	yes
+LAYER	LAYERUSDT	Crypto	Solayer		no
+HEI	HEIUSDT	Crypto	Heima	https://www.coingecko.com/en/coins/heima	yes
+BROCCOLI	BROCCOLIUSDT	Crypto	BROCCOLI		no
+SWFTC	SWFTCUSDT	Crypto	SWFTCOIN	https://www.coingecko.com/en/coins/swftcoin	yes
+SHELL	SHELLUSDT	Crypto	MyShell		no
+XYO	XYOUSDT	Crypto	XYO Network	https://www.coingecko.com/en/coins/xyo-network	yes
+GPS	GPSUSDT	Crypto	GoPlus Security	https://www.coingecko.com/en/coins/goplus-security	yes
+TWT	TWTUSDT	Crypto	Trust Wallet	https://www.coingecko.com/en/coins/trust-wallet-token	yes
+ZBCN	ZBCNUSDT	Crypto	Zebec Network	https://www.coingecko.com/en/coins/zebec-network	yes
+VR	VRUSDT	Crypto	Victoria VR	https://www.coingecko.com/en/coins/victoria-vr	yes
+KAITO	KAITOUSDT	Crypto	KAITO	https://www.coingecko.com/en/coins/kaito	yes
+XLM	XLMUSDT	Crypto	Stellar	https://www.coingecko.com/en/coins/stellar	yes
+ALGO	ALGOUSDT	Crypto	Algorand		no
+AVAIL	AVAILUSDT	Crypto	Avail	https://www.coingecko.com/en/coins/avail	yes
+FDUSD	FDUSDUSDT	Crypto	First Digital USD	https://www.coingecko.com/en/coins/first-digital-usd	yes
+FORT	FORTUSDT	Crypto	Forta	https://www.coingecko.com/en/coins/forta	yes
+F	FUSDT	Crypto	F		no
+FLOCK	FLOCKUSDT	Crypto	FLOCK		no
+CORE	COREUSDT	Crypto	Core		no
+ROAM	ROAMUSDT	Crypto	ROAM Token	https://www.coingecko.com/en/coins/roam-token	yes
+RED	REDUSDT	Crypto	Consolidated Edison Tokenized Stock (Reality)	https://www.coingecko.com/en/coins/redstone-oracles	yes
+IMO	IMOUSDT	Crypto	IMO	https://www.coingecko.com/en/coins/imo	yes
+MNT	MNTUSDT	Crypto	Mantle		no
+ONG	ONGUSDT	Crypto	Ontology Gas	https://www.coingecko.com/en/coins/ong	yes
+ONE	ONEUSDT	Crypto	ONEchain		no
+BMT	BMTUSDT	Crypto	Bitcoin Maxi Tears		no
+EPIC	EPICUSDT	Crypto	Epic Private Internet Cash		no
+MUBARAK	MUBARAKUSDT	Crypto	Mubarak		no
+FORM	FORMUSDT	Crypto	Four	https://www.coingecko.com/en/coins/four	yes
+TUT	TUTUSDT	Crypto	Tutorial	https://www.coingecko.com/en/coins/tutorial	yes
+BR	BRUSDT	Crypto	Bedrock	https://www.coingecko.com/en/coins/bedrock-token	yes
+ORCA	ORCAUSDT	Crypto	Orca	https://www.coingecko.com/en/coins/orca	yes
+BANANAS31	BANANAS31USDT	Crypto	Banana For Scale	https://www.coingecko.com/en/coins/banana-for-scale-2	yes
+PARTI	PARTIUSDT	Crypto	Particle Network	https://www.coingecko.com/en/coins/particle-network	yes
+PAXG	PAXGUSDT	Crypto	PAX Gold	https://www.coingecko.com/en/coins/pax-gold	yes
+APEX	APEXUSDT	Crypto	Apex AI		no
+STO	STOUSDT	Crypto	StakeStone		no
+GUN	GUNUSDT	Crypto	Gunz	https://www.coingecko.com/en/coins/gunz	yes
+BABY	BABYUSDT	Crypto	A Fund Baby		no
+FHE	FHEUSDT	Crypto	Mind Network	https://www.coingecko.com/en/coins/mind-network	yes
+KERNEL	KERNELUSDT	Crypto	KernelDAO	https://www.coingecko.com/en/coins/kernel-2	yes
+WCT	WCTUSDT	Crypto	WalletConnect Token	https://www.coingecko.com/en/coins/connect-token-wct	yes
+FUEL	FUELUSDT	Crypto	Fuel Network	https://www.coingecko.com/en/coins/fuel-network	yes
+BANK	BANKUSDT	Crypto	Bankcoin		no
+IOTX	IOTXUSDT	Crypto	Binance-Peg IoTeX		no
+XDC	XDCUSDT	Crypto	XDC Network	https://www.coingecko.com/en/coins/xdce-crowd-sale	yes
+HYPER	HYPERUSDT	Crypto	Hyper		no
+ZORA	ZORAUSDT	Crypto	Zora	https://www.coingecko.com/en/coins/zora	yes
+SIGN	SIGNUSDT	Crypto	Sign	https://www.coingecko.com/en/coins/sign-global	yes
+B2	B2USDT	Crypto	BSquared Network	https://www.coingecko.com/en/coins/bsquared-network	yes
+PUNDIX	PUNDIXUSDT	Crypto	Pundi X	https://www.coingecko.com/en/coins/pundi-x-2	yes
+CTK	CTKUSDT	Crypto	Shentu		no
+PRCL	PRCLUSDT	Crypto	Parcl	https://www.coingecko.com/en/coins/parcl	yes
+MYX	MYXUSDT	Crypto	MYX Finance	https://www.coingecko.com/en/coins/myx-finance	yes
+ALPINE	ALPINEUSDT	Crypto	Alpine F1 Team Fan Token	https://www.coingecko.com/en/coins/alpine-f1-team-fan-token	yes
+SXT	SXTUSDT	Crypto	Space and Time	https://www.coingecko.com/en/coins/space-and-time	yes
+DOOD	DOODUSDT	Crypto	Doodles	https://www.coingecko.com/en/coins/doodles	yes
+SKYAI	SKYAIUSDT	Crypto	SkyAI	https://www.coingecko.com/en/coins/skyai	yes
+NXPC	NXPCUSDT	Crypto	Bridged NXPC		no
+AVL	AVLUSDT	Crypto	Aston Villa Fan Token		no
+XTER	XTERUSDT	Crypto	Xterio	https://www.coingecko.com/en/coins/xterio	yes
+AWE	AWEUSDT	Crypto	AWE Network	https://www.coingecko.com/en/coins/stp-network	yes
+B	BUSDT	Crypto	B		no
+USD1	USD1USDT	Crypto	USD1	https://www.coingecko.com/en/coins/usd1-wlfi	yes
+RWA	RWAUSDT	Crypto	Allo		no
+SOON	SOONUSDT	Crypto	SOON		no
+HUMA	HUMAUSDT	Crypto	Huma Finance	https://www.coingecko.com/en/coins/huma-finance	yes
+HBAR	HBARUSDT	Crypto	Hedera	https://www.coingecko.com/en/coins/hedera-hashgraph	yes
+A	AUSDT	Crypto	Vaulta		no
+SOPH	SOPHUSDT	Crypto	SophiaVerse		no
+LA	LAUSDT	Crypto	Lagrange		no
+ICP	ICPUSDT	Crypto	Internet Computer	https://www.coingecko.com/en/coins/internet-computer	yes
+HOME	HOMEUSDT	Crypto	HOME		no
+RESOLV	RESOLVUSDT	Crypto	Resolv	https://www.coingecko.com/en/coins/resolv	yes
+AXL	AXLUSDT	Crypto	Axelar	https://www.coingecko.com/en/coins/axelar	yes
+SQD	SQDUSDT	Crypto	SQD	https://www.coingecko.com/en/coins/subsquid	yes
+STETH	STETHUSDT	Crypto	Lido Staked Ether	https://www.coingecko.com/en/coins/staked-ether	yes
+TAIKO	TAIKOUSDT	Crypto	Taiko	https://www.coingecko.com/en/coins/taiko	yes
+SPK	SPKUSDT	Crypto	Spark	https://www.coingecko.com/en/coins/spark-2	yes
+NEWT	NEWTUSDT	Crypto	Newton Protocol	https://www.coingecko.com/en/coins/newton-protocol	yes
+H	HUSDT	Crypto	H		no
+MGO	MGOUSDT	Crypto	Mango Network		no
+SAHARA	SAHARAUSDT	Crypto	Sahara AI	https://www.coingecko.com/en/coins/sahara-ai	yes
+BGSC	BGSCUSDT	Crypto	BugsCoin	https://www.coingecko.com/en/coins/bugscoin	yes
+ICNT	ICNTUSDT	Crypto	Impossible Cloud Network Token	https://www.coingecko.com/en/coins/impossible-cloud-network-token	yes
+IDOL	IDOLUSDT	Crypto	MEET48	https://www.coingecko.com/en/coins/meet48	yes
+USELESS	USELESSUSDT	Crypto	Useless Coin		no
+MANTA	MANTAUSDT	Crypto	Manta Network	https://www.coingecko.com/en/coins/manta-network	yes
+MPLX	MPLXUSDT	Crypto	Metaplex	https://www.coingecko.com/en/coins/metaplex	yes
+TAG	TAGUSDT	Crypto	TAGGER	https://www.coingecko.com/en/coins/tagger	yes
+CROSS	CROSSUSDT	Crypto	CROSS		no
+AIN	AINUSDT	Crypto	AInalyst		no
+VELVET	VELVETUSDT	Crypto	Velvet	https://www.coingecko.com/en/coins/velvet	yes
+PUMPFUN	PUMPFUNUSDT	Crypto	PUMPFUN		no
+C	CUSDT	Crypto	C		no
+TAC	TACUSDT	Crypto	TAC	https://www.coingecko.com/en/coins/tac	yes
+SPA	SPAUSDT	Crypto	Sperax	https://www.coingecko.com/en/coins/sperax	yes
+VSN	VSNUSDT	Crypto	Vision	https://www.coingecko.com/en/coins/vision-3	yes
+ERA	ERAUSDT	Crypto	Caldera	https://www.coingecko.com/en/coins/caldera	yes
+RION	RIONUSDT	Crypto	Hyperion	https://www.coingecko.com/en/coins/hyperion-2	yes
+ZEN	ZENUSDT	Crypto	ZEN		no
+TA	TAUSDT	Crypto	TA FUND		no
+AUCTION	AUCTIONUSDT	Crypto	Bounce		no
+XNY	XNYUSDT	Crypto	Codatta	https://www.coingecko.com/en/coins/codatta	yes
+ASP	ASPUSDT	Crypto	Aspecta	https://www.coingecko.com/en/coins/aspecta	yes
+ORDER	ORDERUSDT	Crypto	ORDER		no
+DBR	DBRUSDT	Crypto	deBridge		no
+TREE	TREEUSDT	Crypto	Thickquidity		no
+NAORIS	NAORISUSDT	Crypto	NaoX Protocol	https://www.coingecko.com/en/coins/naoris	yes
+EGL1	EGL1USDT	Crypto	EGL1	https://www.coingecko.com/en/coins/egl1	yes
+RHEA	RHEAUSDT	Crypto	RHEA	https://www.coingecko.com/en/coins/rhea-2	yes
+TOWNS	TOWNSUSDT	Crypto	Towns	https://www.coingecko.com/en/coins/towns	yes
+PROVE	PROVEUSDT	Crypto	Succinct	https://www.coingecko.com/en/coins/succinct	yes
+RPL	RPLUSDT	Crypto	Planet Labs Tokenized Stock (Reality)	https://www.coingecko.com/en/coins/rocket-pool	yes
+IN	INUSDT	Crypto	Incoin		no
+GAMEBUILD	GAMEBUILDUSDT	Crypto	GAMEBUILD		no
+HYPE	HYPEUSDT	Crypto	Hyperliquid	https://www.coingecko.com/en/coins/hyperliquid	yes
+LUMIA	LUMIAUSDT	Crypto	Lumia	https://www.coingecko.com/en/coins/lumia	yes
+AIO	AIOUSDT	Crypto	All In One Wallet		no
+RAD	RADUSDT	Crypto	Radworks	https://www.coingecko.com/en/coins/radicle	yes
+SAPIEN	SAPIENUSDT	Crypto	Sapien	https://www.coingecko.com/en/coins/sapien-2	yes
+SKY	SKYUSDT	Crypto	DarkCrypto Share		no
+XPR	XPRUSDT	Crypto	XPR Network	https://www.coingecko.com/en/coins/proton	yes
+ACS	ACSUSDT	Crypto	Access Protocol		no
+BTR	BTRUSDT	Crypto	Bitlayer		no
+DOLO	DOLOUSDT	Crypto	Dolomite	https://www.coingecko.com/en/coins/dolomite	yes
+MITO	MITOUSDT	Crypto	Mitosis	https://www.coingecko.com/en/coins/mitosis	yes
+WLFI	WLFIUSDT	Crypto	Stupid World Liberty Financial		no
+Q	QUSDT	Crypto	QORA	https://www.coingecko.com/en/coins/quack-ai	yes
+XVS	XVSUSDT	Crypto	Venus	https://www.coingecko.com/en/coins/venus	yes
+SOMI	SOMIUSDT	Crypto	Somnia	https://www.coingecko.com/en/coins/somnia	yes
+PTB	PTBUSDT	Crypto	Portal to Bitcoin	https://www.coingecko.com/en/coins/portal-to-bitcoin	yes
+ARIA	ARIAUSDT	Crypto	Aria		no
+CFG	CFGUSDT	Crypto	Centrifuge [OLD]		no
+OPEN	OPENUSDT	Crypto	OPEN		no
+AVNT	AVNTUSDT	Crypto	Veranta	https://www.coingecko.com/en/coins/avantis	yes
+HOLO	HOLOUSDT	Crypto	holo		no
+UB	UBUSDT	Crypto	Unibase	https://www.coingecko.com/en/coins/unibase	yes
+ZKC	ZKCUSDT	Crypto	Boundless	https://www.coingecko.com/en/coins/boundless	yes
+SOSO	SOSOUSDT	Crypto	SoSoValue	https://www.coingecko.com/en/coins/sosovalue	yes
+ZIG	ZIGUSDT	Crypto	ZIG Finance	https://www.coingecko.com/en/coins/zignaly	yes
+CORN	CORNUSDT	Crypto	Corn		no
+BARD	BARDUSDT	Crypto	Lombard	https://www.coingecko.com/en/coins/lombard-protocol	yes
+ASTER	ASTERUSDT	Crypto	Aster	https://www.coingecko.com/en/coins/aster-2	yes
+0G	0GUSDT	Crypto	0G	https://www.coingecko.com/en/coins/zero-gravity	yes
+TRADOOR	TRADOORUSDT	Crypto	THE TRADOOR		no
+BLESS	BLESSUSDT	Crypto	Bless	https://www.coingecko.com/en/coins/bless-2	yes
+HEMI	HEMIUSDT	Crypto	Hemi	https://www.coingecko.com/en/coins/hemi	yes
+FLUID	FLUIDUSDT	Crypto	Fluid	https://www.coingecko.com/en/coins/instadapp	yes
+COAI	COAIUSDT	Crypto	ChainOpera AI	https://www.coingecko.com/en/coins/chainopera-ai	yes
+XPL	XPLUSDT	Crypto	Plasma		no
+MIRA	MIRAUSDT	Crypto	Mira		no
+HANA	HANAUSDT	Crypto	Hana		no
+LIGHT	LIGHTUSDT	Crypto	Arcturian AI by Virtuals		no
+FF	FFUSDT	Crypto	Falcon Finance	https://www.coingecko.com/en/coins/falcon-finance-ff	yes
+EDEN	EDENUSDT	Crypto	EDEN		no
+XAN	XANUSDT	Crypto	Anoma	https://www.coingecko.com/en/coins/anoma	yes
+NOM	NOMUSDT	Crypto	Nomad	https://www.coingecko.com/en/coins/nomina	yes
+2Z	2ZUSDT	Crypto	DoubleZero	https://www.coingecko.com/en/coins/doublezero	yes
+EVAA	EVAAUSDT	Crypto	EVAA Protocol	https://www.coingecko.com/en/coins/evaa-protocol	yes
+STBL	STBLUSDT	Crypto	AlgoStable		no
+AIA	AIAUSDT	Crypto	DeAgentAI	https://www.coingecko.com/en/coins/aia	yes
+KAVA	KAVAUSDT	Crypto	Kava	https://www.coingecko.com/en/coins/kava	yes
+GOMINING	GOMININGUSDT	Crypto	GoMining Token	https://www.coingecko.com/en/coins/gmt-token	yes
+LMWR	LMWRUSDT	Crypto	LimeWire	https://www.coingecko.com/en/coins/limewire-token	yes
+KGEN	KGENUSDT	Crypto	KGeN	https://www.coingecko.com/en/coins/kgen	yes
+EUL	EULUSDT	Crypto	Euler	https://www.coingecko.com/en/coins/euler	yes
+ENSO	ENSOUSDT	Crypto	Enso	https://www.coingecko.com/en/coins/enso	yes
+LAB	LABUSDT	Crypto	LAB	https://www.coingecko.com/en/coins/lab	yes
+YB	YBUSDT	Crypto	Yield Basis	https://www.coingecko.com/en/coins/yield-basis	yes
+RECALL	RECALLUSDT	Crypto	Recall	https://www.coingecko.com/en/coins/recall	yes
+ZBT	ZBTUSDT	Crypto	ZEROBASE	https://www.coingecko.com/en/coins/zerobase	yes
+RIVER	RIVERUSDT	Crypto	River	https://www.coingecko.com/en/coins/river	yes
+GIGGLE	GIGGLEUSDT	Crypto	Giggle Fund	https://www.coingecko.com/en/coins/giggle-fund	yes
+BLUAI	BLUAIUSDT	Crypto	Bluwhale	https://www.coingecko.com/en/coins/bluwhale	yes
+TURTLE	TURTLEUSDT	Crypto	Against All Odds		no
+MET	METUSDT	Crypto	Meteora		no
+ON	ONUSDT	Crypto	ON Semiconductor Corporation • Robinhood Token		no
+APR	APRUSDT	Crypto	Capricorn	https://www.coingecko.com/en/coins/apriori	yes
+CLOUD	CLOUDUSDT	Crypto	CloudAI		no
+AT	ATUSDT	Crypto	Apro		no
+WAL	WALUSDT	Crypto	Walrus	https://www.coingecko.com/en/coins/walrus-2	yes
+DEEP	DEEPUSDT	Crypto	DeepBook		no
+KITE	KITEUSDT	Crypto	Kite		no
+MMT	MMTUSDT	Crypto	Momentum	https://www.coingecko.com/en/coins/momentum-3	yes
+TRUST	TRUSTUSDT	Crypto	Intuition		no
+UAI	UAIUSDT	Crypto	AIMERICA		no
+RATS	RATSUSDT	Crypto	GoldenRat		no
+JCT	JCTUSDT	Crypto	Jade City Token		no
+CETUS	CETUSUSDT	Crypto	Cetus Protocol	https://www.coingecko.com/en/coins/cetus-protocol	yes
+ALLO	ALLOUSDT	Crypto	Allora	https://www.coingecko.com/en/coins/allora	yes
+HAEDAL	HAEDALUSDT	Crypto	Haedal Protocol	https://www.coingecko.com/en/coins/haedal	yes
+BEAT	BEATUSDT	Crypto	Audiera		no
+SEI	SEIUSDT	Crypto	LayerZero Bridged Sei		no
+PIEVERSE	PIEVERSEUSDT	Crypto	Pieverse	https://www.coingecko.com/en/coins/pieverse	yes
+ELIZAOS	ELIZAOSUSDT	Crypto	ElizaOS	https://www.coingecko.com/en/coins/elizaos	yes
+LINEA	LINEAUSDT	Crypto	Linea	https://www.coingecko.com/en/coins/linea	yes
+IOTA	IOTAUSDT	Crypto	IOTA	https://www.coingecko.com/en/coins/iota	yes
+GAIB	GAIBUSDT	Crypto	_gai16zbrielShai16zpr0		no
+BOB	BOBUSDT	Crypto	Bitcoin Bob		no
+INIT	INITUSDT	Crypto	Inite		no
+DMC	DMCUSDT	Crypto	Decentralized Mining Exchange		no
+IRYS	IRYSUSDT	Crypto	Irys	https://www.coingecko.com/en/coins/irys	yes
+LSK	LSKUSDT	Crypto	Lisk	https://www.coingecko.com/en/coins/lisk	yes
+ZENT	ZENTUSDT	Crypto	Zentience		no
+CTC	CTCUSDT	Crypto	Creditcoin	https://www.coingecko.com/en/coins/creditcoin-2	yes
+TNSR	TNSRUSDT	Crypto	Tensor	https://www.coingecko.com/en/coins/tensor	yes
+SFP	SFPUSDT	Crypto	SafePal	https://www.coingecko.com/en/coins/safepal	yes
+RLS	RLSUSDT	Crypto	Rayls	https://www.coingecko.com/en/coins/rayls	yes
+POWER	POWERUSDT	Crypto	Powerloom		no
+A8	A8USDT	Crypto	Ancient8	https://www.coingecko.com/en/coins/ancient8	yes
+SAGA	SAGAUSDT	Crypto	Saga	https://www.coingecko.com/en/coins/saga-2	yes
+MON	MONUSDT	Crypto	Monad	https://www.coingecko.com/en/coins/monad	yes
+TRAC	TRACUSDT	Crypto	OriginTrail		no
+TIA	TIAUSDT	Crypto	Celestia		no
+KAIA	KAIAUSDT	Crypto	Illusive AI		no
+WET	WETUSDT	Crypto	HumidiFi	https://www.coingecko.com/en/coins/humidifi	yes
+US	USUSDT	Crypto	Talus		no
+CYS	CYSUSDT	Crypto	Cysic	https://www.coingecko.com/en/coins/cysic	yes
+RAVE	RAVEUSDT	Crypto	RaveDAO	https://www.coingecko.com/en/coins/ravedao	yes
+LAVA	LAVAUSDT	Crypto	Lava Network	https://www.coingecko.com/en/coins/lava-network	yes
+ZKP	ZKPUSDT	Crypto	Panther Protocol		no
+GUA	GUAUSDT	Crypto	GUA	https://www.coingecko.com/en/coins/superfortune	yes
+MAGMA	MAGMAUSDT	Crypto	Magma Finance	https://www.coingecko.com/en/coins/magma-finance	yes
+LIGHTER	LIGHTERUSDT	Crypto	LIGHTER		no
+OG	OGUSDT	Crypto	OG Fan Token	https://www.coingecko.com/en/coins/og-fan-token	yes
+BREV	BREVUSDT	Crypto	Brevis	https://www.coingecko.com/en/coins/brevis	yes
+ZTC	ZTCUSDT	Crypto	ZenChain	https://www.coingecko.com/en/coins/zenchain-2	yes
+DUSK	DUSKUSDT	Crypto	DUSK	https://www.coingecko.com/en/coins/dusk-network	yes
+SPORTFUN	SPORTFUNUSDT	Crypto	SPORTFUN		no
+RON	RONUSDT	Crypto	ON Semiconductor Tokenized Stock (Reality)	https://www.coingecko.com/en/coins/ronin	yes
+STABLE	STABLEUSDT	Crypto	​​Stable		no
+SKR	SKRUSDT	Crypto	Saakuru		no
+ACU	ACUUSDT	Crypto	Acurast	https://www.coingecko.com/en/coins/acurast	yes
+SENT	SENTUSDT	Crypto	Sentient		no
+ELSA	ELSAUSDT	Crypto	Elsa	https://www.coingecko.com/en/coins/elsa	yes
+SPACE	SPACEUSDT	Crypto	MicrovisionChain		no
+BIRB	BIRBUSDT	Crypto	Birb		no
+GWEI	GWEIUSDT	Crypto	ETHGas	https://www.coingecko.com/en/coins/ethgas-2	yes
+INX	INXUSDT	Crypto	Infinex		no
+ZAMA	ZAMAUSDT	Crypto	Zama	https://www.coingecko.com/en/coins/zama	yes
+TRIA	TRIAUSDT	Crypto	TRIA	https://www.coingecko.com/en/coins/tria	yes
+AZTEC	AZTECUSDT	Crypto	Aztec	https://www.coingecko.com/en/coins/aztec	yes
+ESP	ESPUSDT	Crypto	Espresso		no
+ROBO	ROBOUSDT	Crypto	ROBO		no
+MANTRA	MANTRAUSDT	Crypto	MANTRA	https://www.coingecko.com/en/coins/mantra	yes
+OPN	OPNUSDT	Crypto	OPEN Ticketing Ecosystem		no
+CC	CCUSDT	Crypto	Canton	https://www.coingecko.com/en/coins/canton-network	yes
+KAT	KATUSDT	Crypto	Karat		no
+BSB	BSBUSDT	Crypto	Based Street Bets		no
+BASED	BASEDUSDT	Crypto	BASED		no
+PRL	PRLUSDT	Crypto	Parallel Governance		no
+UP	UPUSDT	Crypto	DoubleUp		no
+USDS	USDSUSDT	Crypto	Sperax USD		no
+GENIUS	GENIUSUSDT	Crypto	Genius		no
+FRAX	FRAXUSDT	Crypto	Legacy Frax Dollar		no
+CHIP	CHIPUSDT	Crypto	Algo-Casino Chips		no
+OPG	OPGUSDT	Crypto	OpenGradient	https://www.coingecko.com/en/coins/opengradient	yes
+BLEND	BLENDUSDT	Crypto	Fluent	https://www.coingecko.com/en/coins/fluent-network	yes
+BILL	BILLUSDT	Crypto	Billions Network		no
+AIGENSYN	AIGENSYNUSDT	Crypto	AIGENSYN		no
+CTR	CTRUSDT	Crypto	Citrea		no
+SLX	SLXUSDT	Crypto	Slimex		no
+BTW	BTWUSDT	Crypto	Banana Tape Wall		no
+ZEST	ZESTUSDT	Crypto	Zest Protocol	https://www.coingecko.com/en/coins/zest-protocol	yes
+RE	REUSDT	Crypto	Eni SpA Tokenized Stock (Reality)	https://www.coingecko.com/en/coins/re	yes
+O	OUSDT	Crypto	Childhoods End		no
+ARX	ARXUSDT	Crypto	AlphaRadarX		no
+VERONA	VERONAUSDT	Crypto	Verona	https://www.coingecko.com/en/coins/verona	yes
+CAP	CAPUSDT	Crypto	Based Brians		no
+GRAM	GRAMUSDT	Crypto	Blockgram		no
+AEON	AEONUSDT	Crypto	aeon		no
+GRVT	GRVTUSDT	Crypto	GRVT Token	https://www.coingecko.com/en/coins/grvt	yes
+DOS	DOSUSDT	Crypto	DAPPOS		no
+MARSCOIN	MARSCOINUSDT	Crypto	MarsCoin		no
+PONS	PONSUSDT	Crypto	Pons	https://www.coingecko.com/en/coins/pons	yes
+CASHCAT	CASHCATUSDT	Crypto	Cash Cat	https://www.coingecko.com/en/coins/cash-cat	yes
+CP	CPUSDT	Crypto	CAPTAIN PUMPZILLA	https://www.coingecko.com/en/coins/cluster-protocol	yes
+DGAI	DGAIUSDT	Crypto	DGrid AI	https://www.coingecko.com/en/coins/dgrid-ai	yes
+CNPY	CNPYUSDT	Crypto	Canopy		no
+4STOCK	4STOCKUSDT	Crypto	4Stock	https://www.coingecko.com/en/coins/4stock	yes
+CT	CTUSDT	Crypto	Concrete		no
+DNA	DNAUSDT	Crypto	DNA		no
