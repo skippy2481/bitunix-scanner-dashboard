@@ -64,6 +64,34 @@ Requirements: Python 3.10+ (stdlib only, no pip packages).
 
 Then browse to http://<server-ip>:8124. Uninstall later with `sudo ./uninstall.sh`.
 
+## How it works
+
+**Polling model.** The server runs background threads per market, so
+upstream is polled server-side and browsers just fetch one consolidated
+snapshot from `/api/data`:
+
+- **Futures plane** — refreshes every **15 seconds** (batch tickers,
+  funding rates, meta). Incomplete fetches retry after 15s.
+- **Spot plane** — runs a continuous sweep: per-symbol stat workers under
+  a concurrency semaphore, one pass at a time (a full pass is the
+  interval; watch the journal for "spot sweep pass complete").
+- **Roster** — instrument lists refresh every **30 minutes**, so new
+  listings appear automatically.
+- **Reference prices** (1h/6h/24h) — kline sweep every **5 minutes**.
+- **Classifier caches** — CoinGecko names/icons refresh weekly.
+
+**Classification.** Each base symbol is classified Crypto/TradFi from a
+stack: forced-TradFi registry (`tradfi-names.json`) first, then
+CoinGecko-derived sets, with 1000-prefixed symbols normalized. Info links
+resolve from `info-links.json` (hand-curated), then CoinGecko IDs, then
+Yahoo Finance for TradFi.
+
+**Rank badges.** Crypto rows carry a CoinGecko market-cap rank from
+`cg-ranks.json` (harvested via `tools/cg-rank-harvest.py`).
+
+**Persistence.** Favorites live in your browser's localStorage — nothing
+is stored server-side. Export/Import buttons move them between browsers.
+
 ## Repository layout
 
 | Path | Contents |
