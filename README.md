@@ -52,6 +52,18 @@ Both paths boot automatically (container restart-policy / systemd).
 
 Requirements: Python 3.10+ (stdlib only, no pip packages).
 
+## Quick start on a fresh server (public deploy)
+
+    # as root, on any Ubuntu/Debian box with docker + ufw:
+    ufw allow 22/tcp && ufw enable          # deny-by-default firewall
+    ufw allow 8124/tcp                      # dashboard port
+    systemctl is-enabled docker || systemctl enable docker
+    git clone https://github.com/skippy2481/bitunix-scanner-dashboard /opt/bitunix-scanner-dashboard
+    cd /opt/bitunix-scanner-dashboard
+    ./install.sh 8124                       # builds + runs hardened container
+
+Then browse to http://<server-ip>:8124. Uninstall later with `sudo ./uninstall.sh`.
+
 ## Repository layout
 
 | Path | Contents |
