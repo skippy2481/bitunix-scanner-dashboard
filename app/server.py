@@ -509,6 +509,24 @@ class H(BaseHTTPRequestHandler):
         self.send_header("Content-Length", str(len(body)))
         self.end_headers()
         self.wfile.write(body)
+
+    def do_HEAD(self):
+        """Answer HEAD like GET but skip the body (some browsers prefetch
+        with HEAD; answering 501 caused Brave hang suspicion)."""
+        if self.path == "/api/data":
+            with state_lock:
+                length = len(json.dumps(state).encode())
+            ctype = "application/json"
+        else:
+            try:
+                length = os.path.getsize(INDEX_PATH)
+            except OSError:
+                length = 0
+            ctype = "text/html; charset=utf-8"
+        self.send_response(200)
+        self.send_header("Content-Type", ctype)
+        self.send_header("Content-Length", str(length))
+        self.end_headers()
     def log_message(self, *a):
         pass
 
