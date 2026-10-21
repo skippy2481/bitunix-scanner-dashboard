@@ -34,7 +34,7 @@ non-root user, no-new-privileges. One command:
     ./install.sh              # builds image, runs on http://localhost:8124
     ./install.sh 9000         # or pick any host port
 
-Logs: `docker logs -f bitunix-scanner` · Remove: `docker rm -f bitunix-scanner`
+Logs: `docker logs -f bitunix-scanner` · Uninstall (either path): `sudo ./uninstall.sh`
 
 ## Install — Option 2: Bare metal (no Docker required)
 
@@ -47,6 +47,8 @@ Installs a `bitunix-scanner` systemd unit (auto-start, restart-on-failure):
 
     systemctl status bitunix-scanner      # check it
     journalctl -u bitunix-scanner -f      # logs
+
+Both paths boot automatically (container restart-policy / systemd).
 
 Requirements: Python 3.10+ (stdlib only, no pip packages).
 
