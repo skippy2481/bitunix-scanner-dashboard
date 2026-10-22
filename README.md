@@ -62,7 +62,7 @@ Requirements: Python 3.10+ (stdlib only, no pip packages).
     cd /opt/bitunix-scanner-dashboard
     ./install.sh 8124                       # builds + runs hardened container
 
-Then browse to http://<server-ip>:8124. Uninstall later with `sudo ./uninstall.sh`.
+Then browse to http://<server-ip>:8124. Want HTTPS on the bare IP with no domain? See **TLS-SETUP.md**. Uninstall later with `sudo ./uninstall.sh`.
 
 ## How it works
 
