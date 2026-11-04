@@ -963,6 +963,126 @@
   "ZSUSDT": {
    "name": "Zscaler",
    "status": "named"
+  },
+  "ABBVUSDT": {
+   "us_status": "ok",
+   "name": "AbbVie (Dinari Tokenized Stock)",
+   "status": "named",
+   "us_blocked": true
+  },
+  "AMGNUSDT": {
+   "us_status": "ok",
+   "name": "Amgen",
+   "status": "named",
+   "us_blocked": true
+  },
+  "BACUSDT": {
+   "us_status": "ok",
+   "name": "Bank of America",
+   "status": "named",
+   "us_blocked": true
+  },
+  "CEGUSDT": {
+   "us_status": "ok",
+   "name": "Constellation Energy (Robinhood Token)",
+   "status": "named",
+   "us_blocked": true
+  },
+  "EIDOUSDT": {
+   "us_status": "ok",
+   "name": "iShares MSCI Indonesia ETF (EIDO)",
+   "status": "named",
+   "us_blocked": true
+  },
+  "EQTUSDT": {
+   "us_status": "ok",
+   "name": "EQT Corporation",
+   "status": "named",
+   "us_blocked": true
+  },
+  "EWZSUSDT": {
+   "us_status": "ok",
+   "name": "iShares MSCI Brazil Small-Cap ETF (EWZS)",
+   "status": "named",
+   "us_blocked": true
+  },
+  "IBKRUSDT": {
+   "us_status": "ok",
+   "name": "Interactive Brokers Group (Dinari Tokenized Stock)",
+   "status": "named",
+   "us_blocked": true
+  },
+  "MDTUSUSDT": {
+   "us_status": "ok",
+   "name": "Medtronic",
+   "status": "named",
+   "us_blocked": true
+  },
+  "MELIUSDT": {
+   "us_status": "ok",
+   "name": "MercadoLibre (Dinari Tokenized Stock)",
+   "status": "named",
+   "us_blocked": true
+  },
+  "OXYUSDT": {
+   "us_status": "ok",
+   "name": "Occidental Petroleum",
+   "status": "named",
+   "us_blocked": true
+  },
+  "PFEUSDT": {
+   "us_status": "ok",
+   "name": "Pfizer (Backpack Securities)",
+   "status": "named",
+   "us_blocked": true
+  },
+  "SMRUSDT": {
+   "us_status": "ok",
+   "name": "NuScale Power (Robinhood Token)",
+   "status": "named",
+   "us_blocked": true
+  },
+  "STMUSDT": {
+   "us_status": "ok",
+   "name": "STMicroelectronics",
+   "status": "named",
+   "us_blocked": true
+  },
+  "CRMUSDT": {
+   "us_status": "ok",
+   "name": "Salesforce",
+   "status": "named",
+   "us_blocked": true
+  },
+  "SNOWUSDT": {
+   "us_status": "ok",
+   "name": "Snowflake",
+   "status": "named",
+   "us_blocked": true
+  },
+  "TERUSDT": {
+   "us_status": "ok",
+   "name": "Teradyne",
+   "status": "named",
+   "us_blocked": true
+  },
+  "VUSDT": {
+   "us_status": "ok",
+   "name": "Visa",
+   "status": "named",
+   "us_blocked": true
+  },
+  "AXISUSDT": {
+   "us_status": "ok",
+   "name": "Axis Robotics",
+   "status": "named",
+   "us_blocked": false
+  },
+  "PREDICTUSDT": {
+   "us_status": "ok",
+   "name": "Predict.fun",
+   "status": "named",
+   "us_blocked": false
   }
  },
  "exclude_crypto": [
@@ -974,6 +1094,8 @@
   "DATAIP",
   "BNLIFE",
   "CXMT",
-  "PHAROS"
+  "PHAROS",
+  "AXIS",
+  "PREDICT"
  ]
 }

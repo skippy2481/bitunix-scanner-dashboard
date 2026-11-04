@@ -19,7 +19,7 @@ docker run -d \
   --name "$NAME" \
   --restart unless-stopped \
   --network bridge \
-  -p "$PORT":8124 \
+  -p 127.0.0.1:"$PORT":8124 \
   --read-only \
   --tmpfs /tmp:rw,size=16m,noexec \
   --cap-drop ALL \
