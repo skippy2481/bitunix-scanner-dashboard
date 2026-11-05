@@ -606,5 +606,12 @@
  "TER": "https://finance.yahoo.com/quote/TER/",
  "V": "https://finance.yahoo.com/quote/V/",
  "AXIS": "https://coinmarketcap.com/currencies/axis-robotics",
- "PREDICT": "https://coinmarketcap.com/currencies/predict-fun"
+ "PREDICT": "https://coinmarketcap.com/currencies/predict-fun",
+ "AIGENSYN": "https://coinmarketcap.com/currencies/gensyn/",
+ "H": "https://coinmarketcap.com/currencies/humanity-protocol/",
+ "NEIRO1": "https://coinmarketcap.com/currencies/first-neiro-on-ethereum/",
+ "AVAAI": "https://coinmarketcap.com/currencies/ava-sol/",
+ "SPORTFUN": "https://coinmarketcap.com/currencies/sport-fun/",
+ "TOKEN": "https://coinmarketcap.com/currencies/tokenfi/",
+ "GAMEBUILD": "https://coinmarketcap.com/currencies/gamebuild/"
 }

@@ -1,5 +1,5 @@
 {
- "generated": 1792462631,
+ "generated": 1793840916,
  "sources": {
   "US": {
    "file": "sweep-results.json",
@@ -1083,6 +1083,34 @@
    "name": "Predict.fun",
    "status": "named",
    "us_blocked": false
+  },
+  "AIGENSYN": {
+   "status": "named",
+   "name": "Gensyn"
+  },
+  "H": {
+   "status": "named",
+   "name": "Humanity Protocol"
+  },
+  "NEIRO1": {
+   "status": "named",
+   "name": "Neiro (First Neiro On Ethereum)"
+  },
+  "AVAAI": {
+   "status": "named",
+   "name": "Ava AI"
+  },
+  "SPORTFUN": {
+   "status": "named",
+   "name": "Sport.Fun"
+  },
+  "TOKEN": {
+   "status": "named",
+   "name": "TokenFi"
+  },
+  "GAMEBUILD": {
+   "status": "named",
+   "name": "GameBuild"
   }
  },
  "exclude_crypto": [
@@ -1096,6 +1124,13 @@
   "CXMT",
   "PHAROS",
   "AXIS",
-  "PREDICT"
+  "PREDICT",
+  "AIGENSYN",
+  "H",
+  "NEIRO1",
+  "AVAAI",
+  "SPORTFUN",
+  "TOKEN",
+  "GAMEBUILD"
  ]
 }
